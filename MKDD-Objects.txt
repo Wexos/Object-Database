@@ -1,0 +1,1968 @@
+{{MKDD Object|1|0001|1|itembox|
+|info=Normal itembox.
+|usedin=BabyLuigi, Daisy, Desert, Diddy, Donkey, Ending, Koopa, Luigi, Luigi2, Mario, Mini1, Mini2, Mini3, Mini7, Mini8, Nokonoko, Patapata, Peach, Rainbow, Snow, Waluigi, Wario, Yoshi
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0003|3|njump|
+|info=?
+|usedin=Mini5
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0007|7|hbmatura|
+|info=Wooden bridge.
+|usedin=Donkey
+|s0=?
+|s1=—
+|s2=—
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0009|9|?|
+|info=Itembox.
+|usedin=Award, Desert, Diddy, Donkey, Koopa, Luigi, Luigi2, Mario, Nokonoko, Patapata, Peach, Rainbow, Snow, Waluigi, Wario, Yoshi
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|000A|10|?|
+|info=Itembox following a path.
+|usedin=Diddy, Peach, Snow, Wario
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|000C|12|?|
+|info=Unused itembox.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|000E|14|?|
+|info=?
+|usedin=Patapata
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0010|16|mk_lensfx|
+|info=?
+|usedin=Award, BabyLuigi, Daisy, Desert, Donkey, Luigi, Luigi2, Mario, Mini8, Nokonoko, Peach, Waluigi, Wario, Yoshi
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0011|17|sun|
+|info=?
+|usedin=Award, BabyLuigi, Daisy, Desert, Donkey, Luigi, Luigi2, Mario, Mini8, Nokonoko, Peach, Yoshi
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0013|19|?|
+|info=?
+|usedin=Award, Daisy, Peach
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0014|20|?|
+|info=?
+|usedin=Ending
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|00FF|255|jg_model|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0100|256|jg_hair_model|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0101|257|rod_model|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0102|258|jg_flag|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0104|260|jg_board01|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0105|261|BoardFinalLap|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0106|262|BoardReverse|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0107|263|jg_signal|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0108|264|puku_model|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0109|265|jg_patlamp|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0CE5|3301|babykanran|
+|info=?
+|usedin=BabyLuigi
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0CE6|3302|babyjet|
+|info=?
+|usedin=BabyLuigi
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0CE7|3303|BabyJet_body|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0CE8|3304|yoshihelib|
+|info=?
+|usedin=BabyLuigi
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D48|3400|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0D49|3401|sea|
+|info=Rising and falling sea.
+|usedin=Award, Peach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0D4A|3402|poihana1|
+|info=Cataquack.
+|usedin=Peach
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D4B|3403|kamome1|
+|info=Seagull flock.
+|usedin=Award, Daisy, Peach, Yoshi
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D4C|3404|?|
+|info=Unused. Same as 0D4B?
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0D4D|3405|peachtree1|
+|info=?
+|usedin=Peach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D4E|3406|peachfountain|
+|info=?
+|usedin=Peach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D4F|3407|marel_a|
+|info=?
+|usedin=Award, Peach
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D50|3408|marel_b|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D51|3409|marel_c|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D52|3410|monl_a|
+|info=?
+|usedin=Award, Daisy, Peach
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D53|3411|monl_b|
+|info=?
+|usedin=Award, Daisy
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D54|3412|monl_c|
+|info=?
+|usedin=Award, Daisy, Peach
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D55|3413|uklele_monte|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D56|3414|monf_a|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D57|3415|monf_b|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D58|3416|monl_d|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D59|3417|monl_e|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D5A|3418|marew_a|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D5B|3419|marew_b|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D5C|3420|marew_c|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D5D|3421|marem_a|
+|info=?
+|usedin=Award
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D66|3430|?|
+|info=Itembox.
+|usedin=Award
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D67|3431|AwardKinokoCup|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0D68|3432|AwardFlowerCup|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0D69|3433|AwardStarCup|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0D6A|3434|AwardSpecialCup|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0D6B|3435|AwardReverseCup|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0D6C|3436|AwardAllCupTour|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0D7A|3450|?|
+|info=?
+|usedin=Award, Luigi, Luigi2, Nokonoko, Snow, Wario
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D7B|3451|demo_k_body|
+|info=?
+|usedin=Award
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D7C|3452|kibojii|
+|info=?
+|usedin=Award
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D7D|3453|dpeachfountain|
+|info=?
+|usedin=Award
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0D7E|3454|?|
+|info=?
+|usedin=Peach
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0D7F|3455|peachtree2|
+|info=?
+|usedin=Award
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0DA2|3490|sea5_sand|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0DA3|3591|sea4_nami|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0DA4|3492|sea3_dark|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0DA5|3493|sea2_tex|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0DAE|3502|?|
+|info=?
+|usedin=Daisy
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0DAF|3503|pool|
+|info=?
+|usedin=Daisy
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0DB0|3504|?|
+|info=Unused. Loads TestWall1.bmd.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0DB1|3505|fan1|
+|info=?
+|usedin=Daisy
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E0B|3595|?|
+|info=Unused itembox.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0E0C|3596|TestPaipo1|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0E0D|3597|TestHimo1Ukiwa|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0E0E|3598|?|
+|info=?
+|usedin=Daisy
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E0F|3599|testwall1|
+|info=Moving table.
+|usedin=Daisy
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0E75|3701|mariotree1|
+|info=?
+|usedin=Luigi, Luigi2, Mario
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E76|3702|MarioKinoko1|
+|info=?
+|usedin=—
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0E77|3703|marioflower1|
+|info=?
+|usedin=Award, Luigi, Luigi2
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E78|3704|wanwan1|
+|info=?
+|usedin=Luigi, Luigi2, Mario
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0E79|3705|wanwan_chn|
+|info=?
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E7A|3706|Wanwan1Pile|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0E7E|3710|skyship1|
+|info=?
+|usedin=Luigi, Luigi2
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E7F|3711|kuribo1|
+|info=?
+|usedin=Mario
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0E80|3712|pakkun|
+|info=Piranha plant in pipe.
+|usedin=Mario, Yoshi
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0E81|3713|PakkunShadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0E82|3714|mash_balloon|
+|info=Air balloon.
+|usedin=Mario
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0ED9|3801|yoshiheli|
+|info=?
+|usedin=Yoshi
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0FA1|4001|car_public1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0FA2|4002|car_bus1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0FA3|4003|car_truck1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0FA4|4004|signal1|
+|info=?
+|usedin=Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0FA5|4005|car_bomb1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0FA6|4006|car_kinoko1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0FA7|4007|Car_Kuril|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|0FA8|4008|car_item1|
+|info=?
+|usedin=Ending, Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|0FA9|4009|car_hana1|
+|info=?
+|usedin=Nokonoko, Patapata
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0FAA|4010|Car_Hana1Body|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|0FFF|4095|Car_Hana1BodyShadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|1000|4096|Car_Hana1Shadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|1001|4097|Car_Bomb1Shadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|1002|4098|Car_Kinoko1Shadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|1003|4099|Car_Public1Shadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|1069|4201|firebar1|
+|info=?
+|usedin=Daisy, Waluigi, Wario
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|106A|4202|?|
+|info=Unused. Loads FireBar1Fire.bmd.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|106B|4203|firebar1fire|
+|info=Rotating ring of fire balls.
+|usedin=Waluigi, Wario
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|106D|4205|wl_screen1|
+|info=?
+|usedin=Waluigi, Wario
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|106E|4206|wl_wall1|
+|info=?
+|usedin=Waluigi
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|106F|4207|wlarrow1|
+|info=?
+|usedin=Waluigi
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1070|4208|wl_dokan1|
+|info=?
+|usedin=Waluigi
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1071|4209|?|
+|info=Water/lava splash object?
+|usedin=Diddy, Koopa, Mario, Snow, Waluigi, Yoshi
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1072|4210|wa_search1|
+|info=?
+|usedin=Wario
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1195|4501|cannon1|
+|info=?
+|usedin=Daisy, Donkey, Rainbow
+|s0=—
+|s1=—
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1196|4502|donkyrock1|
+|info=?
+|usedin=Donkey
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1197|4593|DonkyRock1|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|1198|4504|donkytree1|
+|info=?
+|usedin=Donkey
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1199|4505|donkywood|
+|info=?
+|usedin=Donkey
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|119A|4506|butterfly1|
+|info=?
+|usedin=Luigi, Luigi2, Yoshi
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|119B|4507|?|
+|info=Unused. Same as 119A?
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|119C|4508|bird1|
+|info=?
+|usedin=Donkey
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|119D|4509|?|
+|info=Unused. Same as 119C?
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|119E|4510|geyser1|
+|info=?
+|usedin=Diddy
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|119F|4511|?|
+|info=Unused. Same as 119E?
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|11A0|4512|DonkyCloud|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|11A1|4513|nossie|
+|info=?
+|usedin=Diddy
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|11A2|4514|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|11A3|4515|NossieFrontShadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|11A4|4516|dinotree1|
+|info=?
+|usedin=Diddy
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|11A5|4517|swimnossie|
+|info=?
+|usedin=Diddy
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|11A6|4518|ptera|
+|info=?
+|usedin=Diddy
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|11A7|4519|NossieBackShadow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|11A8|4520|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|125D|4701|dossun1|
+|info=?
+|usedin=Koopa
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|125E|4702|bubble1|
+|info=?
+|usedin=Koopa
+|s0=?
+|s1=?
+|s2=—
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|125F|4703|kpfire1|
+|info=?
+|usedin=Koopa
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|0FA7|4007|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|1260|4704|kpfire1fire|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|1261|4705|kpgear1|
+|info=?
+|usedin=Koopa
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1262|4706|kpfirebar1|
+|info=?
+|usedin=Koopa
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1263|4707|kpfirebar1fire|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|1327|4903|geostar|
+|info=?
+|usedin=Rainbow
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1329|4905|ufo|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|1389|5001|sanbo1|
+|info=?
+|usedin=Desert
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|138A|5002|desun1|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|138B|5003|tornado|
+|info=?
+|usedin=Desert
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|138C|5004|deballoon1|
+|info=?
+|usedin=Desert
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|138D|5005|Sanbo1_break_head|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|138E|5005|Sanbo1_break_body|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|138F|5007|antlion|
+|info=?
+|usedin=Desert
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1390|5008|?|
+|info=Some sort of sand effect for sinking sand?
+|usedin=Desert
+|s0=—
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|1391|5009|Shimmer_Ind|
+|info=?
+|usedin=Award, BabyLuigi, Daisy, Desert, Diddy, Donkey, Koopa, Luigi, Luigi2, Mario, Nokonoko, Patapata, Peach, Snow, Waluigi, Wario, Yoshi
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|1392|5010|deserttree1|
+|info=?
+|usedin=Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|13ED|5101|snowrock1|
+|info=?
+|usedin=Snow
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|13EE|5102|heyho1|
+|info=?
+|usedin=Snow
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|13EF|5103|?|
+|info=Unused shy-guy object.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|13F0|5104|snowman1|
+|info=?
+|usedin=Snow
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|13F1|5105|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|13F2|5106|IceBlock1|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|13F3|5107|lights1|
+|info=?
+|usedin=Snow
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|13F4|5108|?|
+|info=Generates snow particles.
+|usedin=Snow
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|2|26AD|9901|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|26AE|9902|MiniGame_Balloon|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|26AF|9903|?|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|1|26B2|9906|?|
+|info=Itembox which falls until it touches the ground?
+|usedin=Mini5
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MKDD Object|2|26B3|9907|?|
+|info=?
+|usedin=Mini1, Mini2, Mini3, Mini5, Mini7, Mini8
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MKDD Object|1|26B4|9908|MiniGame_shine|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MKDD Object|2|26B5|9909|MiniGameArrow|
+|info=Unused.
+|usedin=—
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}

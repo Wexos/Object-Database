@@ -1,0 +1,9893 @@
+{{MK8D Object|1|03EB|1003|Choropoo|False
+|info=Monty Mole.
+|resources=Choropoo
+|usedin=Gsfc_DonutsPlain3, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03EC|1004|Frogoon|False
+|info=Frog used in 3DS DK Jungle.
+|resources=Frogoon
+|usedin=G3ds_DKJungle
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03ED|1005|PylonB|False
+|info=Cone (blue?).
+|resources=Pylon
+|usedin=Bsfc_Battle1, Gagb_MarioCircuit, Gu_FirstCircuit, Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03EE|1006|PackunMusic|False
+|info=Piranha Plant in pipe from 3DS Music Park.
+|resources=PackunFlower, Dokan1
+|usedin=G3ds_MusicPark
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03EF|1007|KuriboBoard|False
+|info=Wooden fake Goomba used in 3DS Piranha Plant Slide.
+|resources=KuriboBoard
+|usedin=G3ds_PackunSlider
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03F0|1008|DKBarrel|False
+|info=DK barrel used in 3DS DK Jungle.
+|resources=DKBarrel
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03F1|1009|PylonY|False
+|info=Cone (yellow?).
+|resources=Pylon
+|usedin=Bsfc_Battle1
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03F2|1010|DdQuicksand|False
+|info=Quicksand collision end effect used in GCN Dry Dry Desert.
+|resources=DdQuicksand
+|usedin=Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03F3|1011|Kuribo|False
+|info=Goomba.
+|resources=Kuribo
+|usedin=G3ds_PackunSlider, G64_YoshiValley, Gu_MarioCircuit
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03F4|1012|Sanbo|False
+|info=Pokey used in GCN Dry Dry Desert.
+|resources=Sanbo
+|usedin=Ggc_DryDryDesert
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03F5|1013|ItemBox|False
+|info=Item box which gives the players an item.
+|resources=ItemBox
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets, D3ds_NeoBowserCity, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_BabyPark, Dgc_YoshiCircuit, Dsfc_RainbowRoad, Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, Du_BigBlue, Du_DragonRoad, Du_ExciteBike, Du_Hyrule, Du_IcePark, Du_Metro, Du_MuteCity, Du_Woods, Dwii_WariosMine, G3ds_DKJungle, G3ds_MusicPark, G3ds_PackunSlider, G64_KinopioHighway, G64_PeachCircuit, G64_RainbowRoad, G64_YoshiValley, Gagb_MarioCircuit, Gds_PukupukuBeach, Gds_TickTockClock, Gds_WarioStadium, Ggc_DryDryDesert, Ggc_SherbetLand, Gsfc_DonutsPlain3, Gu_Airport, Gu_BowserCastle, Gu_Cake, Gu_City, Gu_Cloud, Gu_Desert, Gu_DossunIseki, Gu_Expert, Gu_FirstCircuit, Gu_HorrorHouse, Gu_MarioCircuit, Gu_Ocean, Gu_RainbowRoad, Gu_SnowMountain, Gu_Techno, Gu_WaterPark, Gwii_GrumbleVolcano, Gwii_MooMooMeadows
+|s0=Item box type. 0 = normal, 1 = double.
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03F6|1014|Dossun|False
+|info=Thwomp used in Thwomp Ruins.
+|resources=Dossun
+|usedin=Gu_DossunIseki
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03F7|1015|Crab|False
+|info=Crab from DS Cheep Cheep Beach.
+|resources=Crab
+|usedin=Gds_PukupukuBeach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03F8|1016|SnowRock|False
+|info=Freezie (ice rock) from GCN Sherbet Land.
+|resources=SnowRock
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03F9|1017|BushBoard|False
+|info=Wooded fake bush from Piranha Plant Slide.
+|resources=BushBoard
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03FA|1018|Coin|False
+|info=Coin object which increases the coin count, and speed up a player.
+|resources=Coin
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets, D3ds_NeoBowserCity, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_BabyPark, Dgc_YoshiCircuit, Dsfc_RainbowRoad, Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, Du_BigBlue, Du_DragonRoad, Du_ExciteBike, Du_Hyrule, Du_IcePark, Du_Metro, Du_MuteCity, Du_Woods, Dwii_WariosMine, G3ds_DKJungle, G3ds_MusicPark, G3ds_PackunSlider, G64_KinopioHighway, G64_PeachCircuit, G64_RainbowRoad, G64_YoshiValley, Gagb_MarioCircuit, Gds_PukupukuBeach, Gds_TickTockClock, Gds_WarioStadium, Ggc_DryDryDesert, Ggc_SherbetLand, Gsfc_DonutsPlain3, Gu_Airport, Gu_BowserCastle, Gu_Cake, Gu_City, Gu_Cloud, Gu_Desert, Gu_DossunIseki, Gu_Expert, Gu_FirstCircuit, Gu_HorrorHouse, Gu_MarioCircuit, Gu_Ocean, Gu_RainbowRoad, Gu_SnowMountain, Gu_Techno, Gu_WaterPark, Gwii_GrumbleVolcano, Gwii_MooMooMeadows
+|s0=?
+|s1=—
+|s2=—
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03FB|1019|Dokan1|False
+|info=Generic pipe, sometimes used together with a Piranha Plant object.
+|resources=Dokan1
+|usedin=Gu_FirstCircuit, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03FD|1021|Basabasa|False
+|info=Bat used in Mount Wario.
+|resources=Basabasa
+|usedin=Bgc_LuigiMansion, Dwii_WariosMine, G64_YoshiValley, Gu_SnowMountain
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|03FE|1022|Barrel|False
+|info=Wooden barrel used in Cloudtop Cruise and N64 Yoshi Valley.
+|resources=Barrel
+|usedin=G64_YoshiValley, Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|03FF|1023|CrashBox|False
+|info=Wooden crate which is destroyed when crashing into it.
+|resources=CrashBox
+|usedin=Gu_City, Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0400|1024|PylonR|False
+|info=Cone (red?)
+|resources=Pylon
+|usedin=Bsfc_Battle1, Bu_DekaLine, Du_Metro, Gagb_MarioCircuit, Gds_WarioStadium, Ggc_SherbetLand, Gu_City, Gu_FirstCircuit, Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0401|1025|Pukupuku|False
+|info=Swimming Cheep Cheep.
+|resources=Pukupuku
+|usedin=G3ds_PackunSlider, Gu_Cake, Gu_Ocean
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0402|1026|TikiTak|False
+|info=Tiki used in 3DS DK Jungle.
+|resources=TikiTak
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0403|1027|PackunFlower|False
+|info=Piranha Plant in pipe.
+|resources=PackunFlower, Dokan1
+|usedin=G3ds_PackunSlider
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0404|1028|PuchiPackun|False
+|info=Snoozing Piranha Plant used in N64 Royal Raceway.
+|resources=PuchiPackun
+|usedin=G3ds_PackunSlider, G64_PeachCircuit, Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0405|1029|SkateHeyhoR|False
+|info=Ice-skating red Shy Guy from GCN Sherbet Land.
+|resources=SkateHeyho
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0406|1030|Note|False
+|info=Bouncing note from 3DS Music Park.
+|resources=Note
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0407|1031|SkateHeyhoB|False
+|info=Ice-skating blue Shy Guy from GCN Sherbet Land.
+|resources=SkateHeyho
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0408|1032|SnowMan|False
+|info=Snow man from GCN Sherbet Land, which gets destroyed when crashing into it.
+|resources=SnowMan
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0409|1033|MovingCoin|False
+|info=A coin object which is moving.
+|resources=Coin
+|usedin=G64_KinopioHighway, G64_YoshiValley, Ggc_SherbetLand, Gu_City, Gu_Techno
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|040A|1034|MovingItemBox|False
+|info=An item box which is moving.
+|resources=ItemBox
+|usedin=G3ds_PackunSlider, G64_KinopioHighway, Gu_City
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|040B|1035|Oil|False
+|info=Slippery oil puddle from GBA Mario Circuit.
+|resources=Oil
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|040C|1036|PcBalloon|False
+|info=Hot air balloon from N64 Royal Raceway.
+|resources=PcBalloon
+|usedin=G64_PeachCircuit
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|040D|1037|N64YoshiEgg|False
+|info=Rolling Yoshi egg from N64 Yoshi Valley.
+|resources=N64YoshiEgg
+|usedin=G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|040F|1039|Bird|False
+|info=Bird.
+|resources=Bird
+|usedin=B3ds_WuhuTown, Bsfc_Battle1, Bu_Dojo, Dgc_YoshiCircuit, Du_Animal_Spring, Du_Animal_Summer, Du_DragonRoad, Du_Hyrule, Du_Woods, G3ds_PackunSlider, G64_PeachCircuit, Gagb_MarioCircuit, Gsfc_DonutsPlain3, Gu_MarioCircuit, Gwii_MooMooMeadows
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0410|1040|TowerKuribo|False
+|info=Goomba tower, which contains a specified amount of Goombas stacked on each other.
+|resources=Kuribo
+|usedin=Gu_MarioCircuit
+|s0=Goomba count.
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0411|1041|Cow|False
+|info=Stationary cow from Wii Moo Moo Meadows.
+|resources=Cow
+|usedin=Gwii_MooMooMeadows
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0412|1042|FishBone|False
+|info=Skeleton fish from Twisted Mansion.
+|resources=FishBone
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0413|1043|Teresa|False
+|info=Boo from Twisted Mansion.
+|resources=Teresa
+|usedin=Gu_HorrorHouse
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0414|1044|CmnToad|False
+|info=Cheering Toad.
+|resources=CmnToad
+|usedin=B3ds_WuhuTown, Bsfc_Battle1, Bu_Sweets, Dagb_CheeseLand, Dgc_BabyPark, Dgc_YoshiCircuit, Du_ExciteBike, Du_Hyrule, Du_Metro, Du_Woods, G3ds_PackunSlider, G64_KinopioHighway, G64_PeachCircuit, Gagb_MarioCircuit, Gds_TickTockClock, Gsfc_DonutsPlain3, Gu_Airport, Gu_City, Gu_Desert, Gu_FirstCircuit, Gu_MarioCircuit, Gu_WaterPark, Gwii_MooMooMeadows
+|s0=Toad color. 0 = blue (?), 1 = green (?), 2 = purple (?), 3 = yellow (?).
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|041F|1055|RelayCar|False
+|info=MKTV-advertised truck.
+|resources=RelayCar
+|usedin=Du_ExciteBike, G64_PeachCircuit, Gds_WarioStadium, Gu_Airport, Gu_FirstCircuit, Gu_MarioCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0420|1056|Seagull|False
+|info=Flying seagull.
+|resources=Seagull
+|usedin=B3ds_WuhuTown, Dgc_YoshiCircuit, Gds_PukupukuBeach, Gu_City, Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0421|1057|ExTram|False
+|info=Mine wagon with Shy Guy from Shy Guy Falls.
+|resources=ExTram
+|usedin=Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0422|1058|GingerBread|False
+|info=Ginerbread audience from Sweet Sweet Canyon.
+|resources=GingerBread
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0423|1059|CakePylonB|False
+|info=Cone type B used in Sweet Sweet Canyon.
+|resources=CakePylonA
+|usedin=Bu_Sweets, Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0424|1060|CakePylonA|False
+|info=Cone type A used in Sweet Sweet Canyon.
+|resources=CakePylonA
+|usedin=Bu_Sweets, Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0427|1063|ShyguyWatchman|False
+|info=Purple Shy Guy (?).
+|resources=ShyguyWatchman
+|usedin=Gu_Expert
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0428|1064|ShyguyPickax|False
+|info=Red Shy Guy holding a pick-ax (?).
+|resources=ShyguyPickax
+|usedin=Gu_Expert
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|042A|1066|PackunFlower2|False
+|info=Piranha Plant in pipe from Mario Circuit.
+|resources=PackunFlower, Dokan1
+|usedin=Dgc_YoshiCircuit, Gu_MarioCircuit
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|042B|1067|HhStatue|False
+|info=Knight statue with hiding Boo, which sometimes smash a hammer. Used in Twisted Mansion.
+|resources=HhStatue
+|usedin=Gu_HorrorHouse
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|042C|1068|CakeBalloon|False
+|info=Hot air balloon from Sweet Sweet Canyon.
+|resources=CakeBalloon
+|usedin=Bu_Sweets, Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|042E|1070|Karon|False
+|info=Walking Dry Bones from Bone-Dry Dunes.
+|resources=Karon
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|042F|1071|PylonTechno|False
+|info=Cone used in Electrodrome.
+|resources=PylonTechno
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0430|1072|DokanTechno|False
+|info=Pipe used together with a Piranha Plant, from Electrodrome.
+|resources=DokanTechno
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0431|1073|PackunCake|False
+|info=Piranha Plant in pipe used in Sweet Sweet Canyon.
+|resources=PackunCake, DokanCake
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0432|1074|APMoveCBox|False
+|info=Moving crates from Sunshine Airport.
+|resources=APMoveCBox
+|usedin=Gu_Airport
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0433|1075|Moray|False
+|info=Eel used in Dolphin Shoals.
+|resources=Moray
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0434|1076|DokanCake|False
+|info=Pipe used in Sweet Sweet Canyon.
+|resources=DokanCake
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0435|1077|MareM|False
+|info=Noki audience used in Waterpark.
+|resources=MareM
+|usedin=Gu_WaterPark
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0436|1078|BarrelFlower|False
+|info=Wooden barrel containing flowers. Used in Toad's Harbor.
+|resources=BarrelFlower
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0437|1079|Helicopter|False
+|info=Flying helicopter with headlight.
+|resources=Helicopter
+|usedin=G64_KinopioHighway, Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0439|1081|SnowBoardHeyho|False
+|info=Red Shy Guy riding a snowboard. Used in Mount Wario.
+|resources=SnowBoardHeyho
+|usedin=Gu_SnowMountain
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|043B|1083|CmnHeyho|False
+|info=Cheering Shy Guy.
+|resources=CmnHeyho
+|usedin=Du_Hyrule, Du_Metro, Du_Woods, Dwii_WariosMine, Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|043C|1084|FireSnake|False
+|info=Firesnake from Wii Grumble Volcano.
+|resources=FireSnake
+|usedin=Gwii_GrumbleVolcano
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|043D|1085|CmnBirdNest|False
+|info=Bird nest containing 2 eggs.
+|resources=CmnBirdNest
+|usedin=G64_YoshiValley, Gu_DossunIseki, Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|043E|1086|MonteM|False
+|info=Cheering Pianta.
+|resources=MonteM
+|usedin=B3ds_WuhuTown, Du_Metro, Gds_PukupukuBeach, Gu_Airport
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|043F|1087|CmnYoshi|False
+|info=Cheering Yoshi.
+|resources=CmnYoshi
+|usedin=B3ds_WuhuTown, Bsfc_Battle1, Bu_Sweets, Dgc_BabyPark, Dgc_YoshiCircuit, Du_Metro, G64_YoshiValley, Gagb_MarioCircuit, Gsfc_DonutsPlain3, Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0440|1088|OcManta|False
+|info=Manta from Dolphin Shoals.
+|resources=OcManta
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0442|1090|OcLifton|False
+|info=Dolphin from Dolphin Shoals.
+|resources=OcLifton
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0443|1091|SnorkelToad|False
+|info=Cheering Toad with snorkel.
+|resources=SnorkelToad
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0444|1092|OcLightJellyfish|False
+|info=Jellyfish from Dolphin Shoals.
+|resources=OcLightJellyfish
+|usedin=Ggc_SherbetLand, Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0445|1093|CmnHawk|False
+|info=Flying hawk.
+|resources=CmnHawk
+|usedin=Bu_Dojo, Du_DragonRoad, Du_Hyrule, Du_Woods, Dwii_WariosMine, G3ds_DKJungle, Gu_DossunIseki, Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0446|1094|FcClown|False
+|info=Clown Car decoration.
+|resources=FcClown
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0447|1095|PukupukuMecha|False
+|info=Mechanic Cheep Cheep.
+|resources=PukupukuMecha
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0449|1097|CmnPatapataUD|False
+|info=Paratroopa flying up and down.
+|resources=CmnPatapata
+|usedin=D3ds_NeoBowserCity, G3ds_PackunSlider, Ggc_DryDryDesert, Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|044A|1098|CmnPatapataLR|False
+|info=Paratroopa flying left and right.
+|resources=CmnPatapata
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|044B|1099|CmnGroupToad|False
+|info=A group of three cheering Toads.
+|resources=CmnGroupToad
+|usedin=B3ds_WuhuTown, Bsfc_Battle1, Bu_BattleStadium, Bu_Sweets, Dagb_CheeseLand, Dgc_BabyPark, Du_Hyrule, Du_Woods, G64_KinopioHighway, G64_PeachCircuit, Gagb_MarioCircuit, Gds_TickTockClock, Gds_WarioStadium, Gsfc_DonutsPlain3, Gu_FirstCircuit, Gwii_MooMooMeadows
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|044C|1100|NoteChild|False
+|info=Decorative note from 3DS Music Park.
+|resources=Note
+|usedin=G3ds_MusicPark
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|044D|1101|PackunHone|False
+|info=Dry Piranha Plant in pipe from Bone-Dry Dunes.
+|resources=PackunHone, DokanHone
+|usedin=Gu_Desert
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|044F|1103|KoopaClaw|False
+|info=Big moving lava Bowser from Bowser's Castle.
+|resources=KoopaClaw
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0450|1104|PackunTechno|False
+|info=Piranha Plant in pipe from Electrodrome.
+|resources=PackunTechno, DokanTechno
+|usedin=Gu_Techno
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0451|1105|DokanHone|False
+|info=Pipe used in Bone-Dry Dunes.
+|resources=DokanHone
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0452|1106|PitToadB|False
+|info=Toad in blue race suit.
+|resources=PitToad
+|usedin=Du_BigBlue, Du_ExciteBike, Gu_Airport, Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0453|1107|PitToadY|False
+|info=Toad in yellow race suit.
+|resources=PitToad
+|usedin=Bu_BattleStadium, Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0454|1108|PitToadG|False
+|info=Toad in green race suit.
+|resources=PitToad
+|usedin=Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0455|1109|PitToadP|False
+|info=Toad in purple race suit.
+|resources=PitToad
+|usedin=G64_PeachCircuit, Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0456|1110|PitToadR|False
+|info=Toad in red race suit.
+|resources=PitToad
+|usedin=Bu_BattleStadium, Du_ExciteBike, Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0457|1111|PitToadW|False
+|info=Toad in white race suit.
+|resources=PitToad
+|usedin=G64_PeachCircuit, Gu_FirstCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0458|1112|DKBanana|False
+|info=Rotating banana statue from 3DS DK Jungle.
+|resources=DKBanana
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|045A|1114|JungleBird|False
+|info=Flying jungle bird.
+|resources=JungleBird
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|045B|1115|PitToadWro|False
+|info=Toad in race suit (?).
+|resources=PitToadWro
+|usedin=Gds_WarioStadium
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|045D|1117|ShyguyRope|False
+|info=Shy Guy hanging in rope, and lifting a barrel containing crystals.
+|resources=ShyguyRope
+|usedin=Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|045E|1118|CmnNokonoko|False
+|info=Koopa Troopa.
+|resources=CmnNokonoko
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|045F|1119|CrWanwanB|False
+|info=Rolling Chain Chomp from N64 Rainbow Road.
+|resources=CrWanwanB
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0460|1120|CmnBros|False
+|info=Hammer Bro.
+|resources=CmnBros
+|usedin=D3ds_NeoBowserCity, Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0463|1123|TcHeyho|False
+|info=Shy Guy from Electrodrome.
+|resources=TcHeyho
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0464|1124|SmToad|False
+|info=Toad from Mount Wario.
+|resources=CmnToad
+|usedin=Gu_City, Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0465|1125|SmHeyho|False
+|info=Shy Guy from Mount Wario.
+|resources=CmnHeyho
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0466|1126|SmYoshi|False
+|info=Yoshi from Mount Wario.
+|resources=CmnYoshi
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0467|1127|JumpPukupuku|False
+|info=Cheep Cheep from SNES Donats Plain 3.
+|resources=Pukupuku
+|usedin=Gsfc_DonutsPlain3
+|s0=?
+|s1=—
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|046A|1130|CmnCow|False
+|info=Moving cow from Moo Moo Meadows.
+|resources=Cow
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|046B|1131|SpaceToad|False
+|info=Toad in space suit. Used in Rainbow Road.
+|resources=SpaceToad
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|046C|1132|PackunTechno_NoAt|False
+|info=Piranha plant from Electrodrome (doesn't hit racers?).
+|resources=PackunTechno, DokanTechno
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|046E|1134|CmnKaron|False
+|info=Dry Bones audience from 3DS Neo Bowser City.
+|resources=Karon
+|usedin=D3ds_NeoBowserCity, Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|046F|1135|JumpPukuClip|False
+|info=?
+|resources=Pukupuku
+|usedin=Gds_PukupukuBeach
+|s0=—
+|s1=?
+|s2=?
+|s3=—
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0470|1136|DL_StarDossun|False
+|info=Thwomp with star power from SNES Rainbow Road.
+|resources=DL_StarDossun
+|usedin=Dsfc_RainbowRoad
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0471|1137|DL_CmnAnimalA|False
+|info=Animal Crossing figures A.
+|resources=DL_CmnAnimalA
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0472|1138|DL_CmnAnimalB|False
+|info=Animal Crossing figures B.
+|resources=DL_CmnAnimalB
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0473|1139|DL_CmnAnimalC|False
+|info=Animal Crossing figures C.
+|resources=DL_CmnAnimalC
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0474|1140|DL_CmnAnimalD|False
+|info=Animal Crossing figures D.
+|resources=DL_CmnAnimalD
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0475|1141|DL_ItemBoxBalloon|False
+|info=Unused.
+|resources=ItemBox
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0476|1142|DL_ShyguyPickaxY|False
+|info=Unused. Same model as ShyguyPickaxR, but yellow.
+|resources=DL_ShyguyPickaxY
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0477|1143|DL_ShyguyPickaxP|False
+|info=Unused. Same model as ShyguyPickaxR, but purple.
+|resources=DL_ShyguyPickaxY
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0478|1144|DL_CmnSoldier|False
+|info=Zelda guards from Hyrule Circuit.
+|resources=DL_CmnSoldier
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0479|1145|DL_IceToad|False
+|info=Ice Toads from Ice Ice Outpost.
+|resources=DL_IceToad
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|047A|1146|DL_Rupee|False
+|info=Unused. Zelda rupee model.
+|resources=DL_Rupee
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|047B|1147|DL_Keith|False
+|info=Keese (bat-like creature) from Hyrule Circuit.
+|resources=DL_Keith
+|usedin=Du_Hyrule
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|047C|1148|DL_Dekubaba|False
+|info=Chomping hyrule flower.
+|resources=DL_Dekubaba
+|usedin=Du_Hyrule
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|047D|1149|DL_MCAirship|False
+|info=Airship from Mute City.
+|resources=DL_MCAirship
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|047E|1150|DL_ShyguyPickaxR|False
+|info=Shy Guy with a pick-ax from Wii Wario's Gold Mine.
+|resources=ShyguyPickax
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|047F|1151|DL_YcHelicopter|False
+|info=Green helicopter from GCN Yoshi Circuit.
+|resources=DL_YcHelicopter
+|usedin=Dgc_YoshiCircuit
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0480|1152|DL_IceHelicopter|False
+|info=Helicopter from Ice Ice Outpost.
+|resources=DL_IceHelicopter
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0481|1153|DL_WoPulleyShyguy|False
+|info=Shy Guy with a rope from Wild Woods.
+|resources=DL_WoPulleyShyguy
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0482|1154|DL_Reset|False
+|info=Resetti from Animal Crossing.
+|resources=DL_Reset
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0483|1155|DL_Bell|False
+|info=Unused. Bell coin model from Animal Crossing.
+|resources=DL_Bell
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0484|1156|DL_NkClown|False
+|info=Clown Car from 3DS Neo Bowser City.
+|resources=DL_NkClown
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0485|1157|DL_NkClownW|False
+|info=Clown Car with fan from 3DS Neo Bowser City.
+|resources=DL_NkClownW
+|usedin=D3ds_NeoBowserCity
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0486|1158|DL_AnimalTotakeke|False
+|info=K. K. with a guitar from Animal Crossing.
+|resources=DL_AnimalTotakeke
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0487|1159|DL_AnimalRisa|False
+|info=Reese from Animal Crossing.
+|resources=DL_AnimalRisa
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0488|1160|DL_AnimalFuta|False
+|info=Blathers from Animail Crossing.
+|resources=DL_AnimalFuta
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0489|1161|DL_AnimalAsami|False
+|info=Mabel from Animal Crossing.
+|resources=DL_AnimalKinuyo
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|048A|1162|DL_AnimalKinuyo|False
+|info=Mabel from Animal Crossing.
+|resources=DL_AnimalKinuyo
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|048B|1163|DL_AnimalTanukichi|False
+|info=Tom Nook from Animal Crossing.
+|resources=DL_AnimalTanukichi
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|048C|1164|DL_MovingItemBoxDLC|False
+|info=Moving item box from GCN Baby Park.
+|resources=ItemBox
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|048D|1165|DL_MechaKoopa|False
+|info=Mecha Koopa from GBA Ribbon Road.
+|resources=DL_MechaKoopa
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|048E|1166|DL_Wanwan|False
+|info=Chained Chain Chomp from GBA Cheese Land.
+|resources=DL_Wanwan
+|usedin=Dagb_CheeseLand
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|048F|1167|DL_WdMovingCoin|False
+|info=Moving coin from Wild Woods.
+|resources=Coin
+|usedin=Du_Woods
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0490|1168|DL_AnimalKaizo|False
+|info=Cyrus from Animal Crossing.
+|resources=DL_AnimalKaizo
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0491|1169|DL_AnimalSnowman|False
+|info=Snow man from Animal Crossing.
+|resources=DL_AnimalSnowman
+|usedin=Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0492|1170|DL_WdBird|False
+|info=Bird from Wild Woods.
+|resources=Bird
+|usedin=Du_Woods
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0493|1171|DL_SurpriseBox|False
+|info=Box with a question-box which DL_RibboBox comes out of (a spring comes out). Used in GBA Ribbon Road.
+|resources=DL_RibbonBox
+|usedin=Dagb_RibbonRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0494|1172|DL_RibbonToad|False
+|info=Toad doll.
+|resources=DL_RibbonToad
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0495|1173|DL_ItemBoxMetro|False
+|info=Item box from Super Bell Subway.
+|resources=ItemBox
+|usedin=Du_Metro
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0496|1174|DL_WdBarrel|False
+|info=Wooden barrel from Wild Woods.
+|resources=DL_WdBarrel
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0497|1175|DL_WdBarrelR|False
+|info=Wooden barrel from Wild Woods.
+|resources=DL_WdBarrel
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0498|1176|Soldier|False
+|info=Unknown. Links to a none-existing resource.
+|resources=Soldier
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0499|1177|MonsterA|False
+|info=?
+|resources=Cow
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|049A|1178|TS_Bunker|False
+|info=?
+|resources=TS_Bunker
+|usedin=Bu_DekaLine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|049B|1179|TS_CmnJerry|False
+|info=Jellyfish from Urchin Underpass.
+|resources=TS_CmnJerry
+|usedin=Bu_DekaLine
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|049C|1180|TS_PylonG|False
+|info=Cone (green?).
+|resources=Pylon
+|usedin=Bsfc_Battle1
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|049D|1181|TS_Teresa|False
+|info=Boo from GCN Luigi's Mansion.
+|resources=Teresa
+|usedin=Bgc_LuigiMansion
+|s0=—
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|049E|1182|TS_MoonToadA|False
+|info=Cheering Toad in space suit. Available in blue, green, purple and yellow, and does different animations.
+|resources=TS_MoonToadA
+|usedin=Bu_Moon
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|049F|1183|TS_MoonToadB|False
+|info=Cheering Toad in space suit. Available in blue, green, purple and yellow, and does different animations. Not collidable?
+|resources=TS_MoonToadA
+|usedin=Bu_Moon
+|s0=—
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|04A0|1184|TS_Shouji|False
+|info=Door which is destroyed when driving into it.
+|resources=TS_Shouji
+|usedin=Bu_Dojo
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|04A2|1186|TS_Shine|False
+|info=Shine object used in Shine Thief.
+|resources=TS_Shine
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|04A3|1187|TS_CmnNokonokoDojo|False
+|info=Koopa Troopa from Dragon Palace, doing movement synced to the music.
+|resources=TS_CmnNokonokoDojo
+|usedin=Bu_Dojo
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|04A4|1188|TS_Sparrow|False
+|info=Sparrow from Urchin Underpass.
+|resources=TS_Sparrow
+|usedin=Bu_DekaLine
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|04A5|1189|TS_DoubleItemBox|False
+|info=?
+|resources=ItemBox
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|04A6|1190|TS_HelicopterBS|False
+|info=Helicopter from Battle Stadium.
+|resources=Helicopter
+|usedin=Bu_BattleStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|04A7|1191|TS_ClownBS|False
+|info=Clown Car from Battle Stadium.
+|resources=FcClown
+|usedin=Bu_BattleStadium
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07D4|2004|ChimneySmoke|False
+|info=Smoke?
+|resources=ChimneySmoke
+|usedin=Bsfc_Battle1, Gsfc_DonutsPlain3, Gu_Desert, Gu_MarioCircuit, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07D6|2006|Fountain|False
+|info=Fontain sound effect and particle effect?
+|resources=Fountain
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07D7|2007|VolFlame|False
+|info=Lava geyser which goes up and down.
+|resources=VolFlame
+|usedin=Gu_BowserCastle, Gwii_GrumbleVolcano
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07D9|2009|VolBomb|False
+|info=Volcanic meteorite from Wii Grumble Volcano. It follows a route, then explodes and creates fire on the ground.
+|resources=VolBomb
+|usedin=Gwii_GrumbleVolcano
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07DA|2010|Flyingbug|False
+|info=?
+|resources=Flyingbug
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07DB|2011|ButterflyB|False
+|info=?
+|resources=ButterflyB
+|usedin=Dgc_YoshiCircuit, Du_Animal_Spring, Du_Animal_Summer, G3ds_MusicPark, G3ds_PackunSlider, G64_PeachCircuit, Gsfc_DonutsPlain3, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07DC|2012|ButterflyA|False
+|info=?
+|resources=ButterflyA
+|usedin=Dgc_YoshiCircuit, G64_PeachCircuit, Gsfc_DonutsPlain3, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07DD|2013|ButterflySp|False
+|info=?
+|resources=ButterflySp
+|usedin=Dgc_YoshiCircuit, Du_Animal_Spring, Du_Animal_Summer, Gsfc_DonutsPlain3, Gu_Expert, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07DE|2014|WPFountain|False
+|info=Water from a fountain model. Used in Water Park.
+|resources=WPFountain
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07DF|2015|WsFirebar|False
+|info=Fire bar.
+|resources=WsFirebar
+|usedin=Gds_WarioStadium, Gu_BowserCastle
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07E0|2016|WsFirering|False
+|info=Fire ring used in DS Wario's Stadium.
+|resources=WsFirering
+|usedin=Gds_WarioStadium
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07E1|2017|CmnWaterCurrent|False
+|info=Creates moving water effect (?).
+|resources=CmnWaterCurrent
+|usedin=G3ds_PackunSlider
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07E2|2018|Balloon|False
+|info=Balloon which spawns and glides upwards.
+|resources=Balloon
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07E5|2021|CmnCloud|False
+|info=?
+|resources=CmnCloud
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07E6|2022|Candle|False
+|info=?
+|resources=Candle
+|usedin=Bgc_LuigiMansion, Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07E7|2023|ClThunder|False
+|info=Boost pad which is hit by thunder, from Cloudtop Cruise.
+|resources=ClThunder
+|usedin=Gu_Cloud
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|1|07E8|2024|DiTorchInside|False
+|info=Tourch flames used inside in Thwomp Ruins.
+|resources=DiTorchInside
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07E9|2025|BDTorch|False
+|info=Torch flames from Bone-Dry Dunes.
+|resources=BDTorch
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07EA|2026|VolTorch|False
+|info=Torch flames from Wii Grumble Volcano.
+|resources=VolTorch
+|usedin=Gwii_GrumbleVolcano
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07EB|2027|DiTorchOutside|False
+|info=Torch flames used outside in Thwomp Ruins.
+|resources=DiTorchOutside
+|usedin=Gsfc_DonutsPlain3, Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07EC|2028|SandFallSmoke|False
+|info=Particle effect from sand fall (?).
+|resources=SandFallSmoke
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07EE|2030|TCSearchLight|False
+|info=?
+|resources=TCSearchLight
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07EF|2031|SeaLight|False
+|info=?
+|resources=SeaLight
+|usedin=Gu_Ocean, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07F0|2032|PsSplashA|False
+|info=Water splash effect from 3DS Piranha Plant Slide (?).
+|resources=PsSplashA
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07F1|2033|CakeSplash|False
+|info=Water splash effect from Sweet Sweet Canyon (?).
+|resources=CakeSplash
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07F2|2034|CakeFountain|False
+|info=Water from fountain used in Sweet Sweet Canyon.
+|resources=CakeFountain
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07F3|2035|SunLight|False
+|info=?
+|resources=SunLight
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07F4|2036|PowderSugar|False
+|info=?
+|resources=PowderSugar
+|usedin=Bu_Sweets, Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07F5|2037|CakeBubble|False
+|info=?
+|resources=CakeBubble
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07F7|2039|FcSearchLight|False
+|info=?
+|resources=FcSearchLight
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07F8|2040|OcManyFish|False
+|info=?
+|resources=OcManyFish
+|usedin=Gds_PukupukuBeach, Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07F9|2041|CakeSplashB|False
+|info=?
+|resources=CakeSplashB
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07FA|2042|CakeFountainB|False
+|info=?
+|resources=CakeFountainB
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07FB|2043|CakeBottleBubble|False
+|info=?
+|resources=CakeBottleBubble
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07FD|2045|TCFountain|False
+|info=Fountain sound and particle effect from Electrodrome (?).
+|resources=TCFountain
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|07FE|2046|DiFluff|False
+|info=?
+|resources=DiFluff
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|07FF|2047|DiWaterfall|False
+|info=?
+|resources=DiWaterfall
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0800|2048|DdWaterCurent|False
+|info=Water current which is trickable and forces the player upwards (?).
+|resources=DdWaterCurent
+|usedin=Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0802|2050|BDSunLight|False
+|info=?
+|resources=BDSunLight
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0803|2051|VolTorchL|False
+|info=Torch holder from Wii Grumble Volcano.
+|resources=VolTorchL
+|usedin=Gwii_GrumbleVolcano
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0804|2052|TCSplashSet1|False
+|info=?
+|resources=TCSplashSet1
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0805|2053|TCSplashSet2|False
+|info=?
+|resources=TCSplashSet2
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0806|2054|TCFireworks|False
+|info=Firework (?).
+|resources=TCFireworks
+|usedin=Ggc_SherbetLand, Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0807|2055|TTCSunLight|False
+|info=?
+|resources=TTCSunLight
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0808|2056|DkTorch|False
+|info=Torch flames from 3DS DK Jungle.
+|resources=DkTorch
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0809|2057|LaserBeam|False
+|info=Laser beam from Bowser's Castle.
+|resources=LaserBeam
+|usedin=Gu_BowserCastle
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|080B|2059|BCTorch1|False
+|info=?
+|resources=BCTorch1
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|080C|2060|BCExplosion|False
+|info=?
+|resources=BCExplosion
+|usedin=Gu_BowserCastle
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|080D|2061|BCSearchLight|False
+|info=?
+|resources=BCSearchLight
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|080E|2062|FireworksFc|False
+|info=Firework from Mario Kart Stadium (?).
+|resources=FireworksFc
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|080F|2063|FireworksSl|False
+|info=Firework from GCN Sherbet Land (?).
+|resources=FireworksSl
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0810|2064|FireworksN64R|False
+|info=Firework from N64 Rainbow Road.
+|resources=FireworksN64R
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0811|2065|TTCSunLightS|False
+|info=?
+|resources=TTCSunLightS
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0812|2066|McSplash|False
+|info=?
+|resources=McSplash
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0813|2067|OcWaterCurrent|False
+|info=Water current effect from Dolphin Shoals (?).
+|resources=OcWaterCurrent
+|usedin=Gu_Ocean
+|s0=?
+|s1=Current force
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0814|2068|VolSmoke|False
+|info=Smoke generated when a platform is falling.
+|resources=VolSmoke
+|usedin=Gwii_GrumbleVolcano
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0815|2069|FireworksN64Rs|False
+|info=Firework from N64 Rainbow Road (?).
+|resources=FireworksN64Rs
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0816|2070|DdQuickSandSplash|False
+|info=?
+|resources=DdQuickSandSplash
+|usedin=Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0817|2071|EntranceSunLight|False
+|info=?
+|resources=EntranceSunLight
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0818|2072|LibrarySunLight|False
+|info=?
+|resources=LibrarySunLight
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0819|2073|CorridorSunLight|False
+|info=?
+|resources=CorridorSunLight
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|081A|2074|AnnexeSunLight|False
+|info=?
+|resources=AnnexeSunLight
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|081D|2077|DpManyFish|False
+|info=?
+|resources=DpManyFish
+|usedin=Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|081E|2078|SlAurora|False
+|info=?
+|resources=SlAurora
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|081F|2079|FcSearchLightClip|False
+|info=?
+|resources=FcSearchLightClip
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0821|2081|FcSearchLightOutside|False
+|info=?
+|resources=FcSearchLightOutside
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0822|2082|BCTorch2|False
+|info=Torch from Bowser's Caslte (?).
+|resources=BCTorch2
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0823|2083|DkSunLight|False
+|info=?
+|resources=DkSunLight
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0824|2084|DL_Triforce|False
+|info=?
+|resources=DL_Triforce
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0825|2085|DL_HySmoke|False
+|info=?
+|resources=DL_HySmoke
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0826|2086|DL_RainbowMountainA|False
+|info=?
+|resources=DL_RainbowMountainA
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0827|2087|DL_RainbowMountainB|False
+|info=?
+|resources=DL_RainbowMountainB
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0828|2088|DL_HyTorch|False
+|info=?
+|resources=DL_HyTorch
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0829|2089|DL_McStartLogo|False
+|info=Start logo from Mute City (?).
+|resources=DL_McStartLogo
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|082A|2090|DL_YoshiWaterCurrent|False
+|info=?
+|resources=DL_YoshiWaterCurrent
+|usedin=Dgc_YoshiCircuit
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|082B|2091|DL_DrTorch|False
+|info=Torch from Dragon Driftway (?).
+|resources=DL_DrTorch
+|usedin=Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|082C|2092|DL_HySalute|False
+|info=?
+|resources=DL_HySalute
+|usedin=Du_Hyrule
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|082D|2093|DL_HyHouseSmoke|False
+|info=Smoke from house in Hyrule Circuit (?).
+|resources=DL_HyHouseSmoke
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|082E|2094|DL_WdChimneySmoke|False
+|info=?
+|resources=DL_WdChimneySmoke
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|082F|2095|DL_WdSunLight|False
+|info=?
+|resources=DL_WdSunLight
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0830|2096|DL_NkThunder|False
+|info=?
+|resources=DL_NkThunder
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0831|2097|DL_BbStartLogoA|False
+|info=Start logo from Big Blue (?).
+|resources=DL_BbStartLogoA
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0832|2098|DL_BbStartLogoB|False
+|info=Start logo from Big Blue (?).
+|resources=DL_BbStartLogoB
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0833|2099|DL_AnimalFountain|False
+|info=?
+|resources=DL_AnimalFountain
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0834|2100|DL_AnimalSmoke|False
+|info=Smoke used in Animal Crossing Autumn.
+|resources=DL_AnimalSmoke
+|usedin=Du_Animal_Autumn
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0835|2101|TS_DjTorch|False
+|info=?
+|resources=TS_DjTorch
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BBA|3002|Rock1|False
+|info=Rolling boulder from Bowser's Castle.
+|resources=Rock1
+|usedin=Gu_BowserCastle
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BBC|3004|CarA|False
+|info=Red, black and yellow car.
+|resources=CarA
+|usedin=G64_KinopioHighway
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BBE|3006|TruckA|False
+|info=Truck from N64 Toad's Turnpike. PTT, Burning DK Sports Drink, Mario Kart 8, Shell Cup and Crystal Clear Windshields.
+|resources=TruckA, CmnDashBoard
+|usedin=G64_KinopioHighway
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BBF|3007|DkAirship|False
+|info=Airship from 3DS DK Jungle.
+|resources=DkAirship
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BC0|3008|Bus|False
+|info=Bus with a boost pad on top. Galaxy Air, Boomerang Bros International Airlines, Paratroopa Airlines and Toad City Seightseeing.
+|resources=Bus, CmnDashBoard
+|usedin=G64_KinopioHighway
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BC1|3009|Trolley|False
+|info=Tram with Koopa Troopa from Toad Harbor.
+|resources=Trolley
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BC3|3011|CarrierCar|False
+|info=Truck with a ramp.
+|resources=CarrierCar
+|usedin=G64_KinopioHighway
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BC4|3012|BDSandShip|False
+|info=Toad pirate ship from Bone-Dry Dunes.
+|resources=BDSandShip
+|usedin=Gu_Desert
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BC5|3013|Submarine|False
+|info=Submarine from Water Park.
+|resources=Submarine
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BC6|3014|TrolleyNoMove|False
+|info=Still tram with Koopa Troopa from Toad Harbor (?).
+|resources=Trolley
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BC7|3015|APJetFly|False
+|info=Flying airplane from Sunshine Airport.
+|resources=APJetFly
+|usedin=Gu_Airport
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BC8|3016|DiWheel|False
+|info=Ancient rotating stone wheel obstacle from Thwomp Ruins.
+|resources=DiWheel
+|usedin=Gu_DossunIseki
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BCA|3018|Chairlift|False
+|info=Chairlift from Mount Wario.
+|resources=Chairlift
+|usedin=Gu_SnowMountain
+|s0=?
+|s1=—
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BCC|3020|CarSurf|False
+|info=Car with a long surfboard ramp.
+|resources=CarSurf
+|usedin=G64_KinopioHighway
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BCD|3021|N64RTrain|False
+|info=Train from N64 Rainbow Road which throws coins on the track.
+|resources=N64RTrain
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BCE|3022|BDSandShipNoMove|False
+|info=Toad pirate ship from Bone-Dry Dunes, which doesn't move (?).
+|resources=BDSandShip
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BCF|3023|GessoShuttle|False
+|info=Blooper space shuttle from Rainbow Road.
+|resources=GessoShuttle
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BD0|3024|DL_WarioTram|False
+|info=Wagon from Wii Wario's Gold Mine transporting gold.
+|resources=DL_WarioTram
+|usedin=Dwii_WariosMine
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BD1|3025|DL_WarioTramB|False
+|info=Brighter wagon from Wii Wario's Gold Mine transporting gold.
+|resources=DL_WarioTram
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BD2|3026|DL_Metro|False
+|info=Subway train from Super Bell Subway.
+|resources=DL_Metro
+|usedin=Du_Metro
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=?
+|s7=?
+}}
+{{MK8D Object|1|0BD3|3027|DL_AnimalTrain|False
+|info=Train from Animal Crossing.
+|resources=DL_AnimalTrain
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0BD4|3028|TS_TruckDekaLine|False
+|info=Truck from Urchin Underpass.
+|resources=TS_TruckDekaLine
+|usedin=Bu_DekaLine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0BD5|3029|TS_CarDekaLine|False
+|info=Car from Urchin Underpass.
+|resources=TS_CarDekaLine
+|usedin=Bu_DekaLine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FA4|4004|ClockGearY|False
+|info=Clock gear from DS Tick-Tock Clock, which is rotating around the Y-axis.
+|resources=ClockGearY
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FA5|4005|ClockHandL|False
+|info=Long clock hand from DS Tick-Tock Clock. It is rotating constantly.
+|resources=ClockHandL
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FA6|4006|ClockGearZ|False
+|info=Trickable clock gear from DS Tick-Tock Clock, which is rotating around the Z-axis.
+|resources=ClockGearZ
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FA7|4007|Furiko|False
+|info=Metal pendulum from DS Tick-Tock Clock. It has the lighting cup symbol on it.
+|resources=Furiko
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FC4|4036|CityBoat|False
+|info=Boat from Toad Harbor, which a boost ramp on it.
+|resources=CityBoat
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FC6|4038|HorrorRoad|False
+|info=Swaying road from Twisted Mansion.
+|resources=HorrorRoad, HhTable, HhChandelier
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FC7|4039|ClockHandS|False
+|info=Short clock hand from DS Tick-Tock Clock. It is rotating constantly.
+|resources=ClockHandS
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FC8|4040|ClockGearPole|False
+|info=Clock gear pole from DS Tick-Tock Clock, rotating counter to ClockGearY.
+|resources=ClockGearPole
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FCA|4042|KaraPillar|False
+|info=Falling pillar from GCN Dry Dry Desert.
+|resources=KaraPillar
+|usedin=Ggc_DryDryDesert
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FCB|4043|MpBoard|False
+|info=Glide board ramp from 3DS Music Park, which is sometimes closed.
+|resources=MpBoard
+|usedin=G3ds_MusicPark
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FCC|4044|ExDash|False
+|info=Boost pad which is moving with the water current.
+|resources=ExDash
+|usedin=Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FD0|4048|BDSandGeyser|False
+|info=Sand geyser from Bone-Dry Dunes.
+|resources=BDSandGeyser
+|usedin=Gu_Desert
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FD2|4050|VolMovRoadPlus|False
+|info=Sideways moving platform from Wii Grumble Volcano, with a glide ramp.
+|resources=VolMovRoadPlus
+|usedin=Gwii_GrumbleVolcano
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FD3|4051|VolMovRoad|False
+|info=Sideways moving platform from Wii Grumble Volcano.
+|resources=VolMovRoad
+|usedin=Gwii_GrumbleVolcano
+|s0=—
+|s1=—
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FD4|4052|VolcanoPiece|False
+|info=Sinking volcano parts of Wii Grumble Volcano.
+|resources=VolcanoPiece
+|usedin=Gwii_GrumbleVolcano
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=Model and collision index.
+}}
+{{MK8D Object|1|0FD7|4055|DiDomino|False
+|info=Stone walls which falls like dominos when DiWheel hits them.
+|resources=DiDomino
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FDC|4060|DkScreamPillar|False
+|info=Screaming stone statues in 3DS DK Jungle.
+|resources=DkScreamPillar
+|usedin=G3ds_DKJungle
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FDD|4061|SmDash|False
+|info=Moving boost pads from Mount Wario. They are moving along with a water current.
+|resources=SmDash
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FE1|4065|ClockHandL2|False
+|info=Long clock hand from DS Tick-Tock clock. It sometimes rotate.
+|resources=ClockHandL
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FE2|4066|ClockHandS2|False
+|info=Short clock hand from DS Tick-Tock clock. It sometimes rotate.
+|resources=ClockHandS
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FE4|4068|KoopaRoadR|False
+|info=Road from Bowser's Castle which gives bumps when the Bowser statue hits it. It is used on the right path.
+|resources=KoopaRoad
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FE5|4069|KoopaRoadL|False
+|info=Road from Bowser's Castle which gives bumps when the Bowser statue hits it. It is used on the left path.
+|resources=KoopaRoad
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FE6|4070|RRroadout|False
+|info=Rotating outside road with arrows from Rainbow Road.
+|resources=RRroad
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FE7|4071|RRroadin|False
+|info=Rotating inside road with arrows from Rainbow Road.
+|resources=RRroad
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FE8|4072|TtcBoard|False
+|info=Ramp from DS Tick-Tock Clock which switches between glide ramp and trickable ramp.
+|resources=TtcBoard
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FEA|4074|SpikeBall|False
+|info=Rotating spike ball from Bowser's Castle.
+|resources=SpikeBall
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FEB|4075|ClockGearArrow|False
+|info=Cylinder-shaped object with arrows around it.
+|resources=ClockGearArrow
+|usedin=Gds_TickTockClock
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FED|4077|N64RRoad1|False
+|info=N64 Rainbow Road swaying track part 1.
+|resources=N64RRoad
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FEE|4078|N64RRoad2|False
+|info=N64 Rainbow Road swaying track part 2.
+|resources=N64RRoad
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FF1|4081|DonutsRoadA|False
+|info=Bridge A from SNES Donuts Plain 3.
+|resources=DonutsRoad
+|usedin=Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FF2|4082|DonutsRoadB|False
+|info=Bridge B from SNES Donuts Plain 3.
+|resources=DonutsRoad
+|usedin=Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FF4|4084|BCCannon|False
+|info=Cannon decoration from Bowser's Castle.
+|resources=BCCannon
+|usedin=Gu_BowserCastle
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FF5|4085|RRdash|False
+|info=Boost pad from Rainbow Road.
+|resources=RRdash
+|usedin=Gu_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FF6|4086|DL_EbField|False
+|info=Tracks part of Excitebike Arena.
+|resources=DL_EbField
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Model and collision index.
+}}
+{{MK8D Object|2|0FF7|4087|DL_EbDirt|False
+|info=Dirt puddle from Excitebike Arena.
+|resources=DL_EbDirt
+|usedin=Du_ExciteBike
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FF8|4088|DL_LotusLeaf|False
+|info=Boost pad on a leaf from Wild Woods.
+|resources=DL_LotusLeaf
+|usedin=Du_Woods
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FF9|4089|DL_AnimalBalloon|False
+|info=Balloon from Animal Crossing.
+|resources=DL_AnimalBalloon
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FFA|4090|DL_EbDirtBig|False
+|info=Big dirt puddle from Excitebike Arena.
+|resources=DL_EbDirtBig
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FFB|4091|DL_HySwitch|False
+|info=DL_MasterSword trigger.
+|resources=DL_HySwitch
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|0FFC|4092|DL_HyJump|False
+|info=Trick ramp from Hyrule Circuit.
+|resources=DL_HyJump
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|0FFF|4095|DL_Iceberg|False
+|info=Ice berg from Ice Ice Outpost.
+|resources=DL_Iceberg
+|usedin=Du_IcePark
+|s0=?
+|s1=?
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1000|4096|DL_RainbowArrow|False
+|info=?
+|resources=DL_RainbowArrow
+|usedin=Dsfc_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1001|4097|DL_MasterSword|False
+|info=Zelda master sword, which boosts the player. It is triggered by DL_HySwitch.
+|resources=DL_MasterSword
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1002|4098|DL_MCGoalLine|False
+|info=Mute city goal line.
+|resources=DL_MCGoalLine
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1003|4099|DL_SfcRRoad1|False
+|info=Swaying part 1 of SNES Rainbow Road.
+|resources=DL_SfcRRoad
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1004|4100|DL_SfcRRoad2|False
+|info=Swaying part 2 of SNES Rainbow Road.
+|resources=DL_SfcRRoad
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1005|4101|DL_SfcRRoad3|False
+|info=Swaying part 3 of SNES Rainbow Road.
+|resources=DL_SfcRRoad
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1006|4102|DL_SfcRRoad4|False
+|info=Swaying part 4 of SNES Rainbow Road.
+|resources=DL_SfcRRoad
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1007|4103|DL_MCDashSet|False
+|info=3 different sets of boost pads from Mute City (?).
+|resources=DL_MCDashSet
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1008|4104|DL_RibbonRoad1|False
+|info=Swaying part 1 of GBA Ribbon Road.
+|resources=DL_RibbonRoad
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|100A|4106|DL_TicketGate|False
+|info=Ticket gate from Super Bell Subway.
+|resources=DL_TicketGate
+|usedin=Du_Metro
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|100B|4107|DL_MetroTollBar|False
+|info=?
+|resources=DL_MetroTollBar
+|usedin=Du_Metro
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|100C|4108|DL_MetroDash|False
+|info=Boost pad from Super Bell Subway. Switches between boost pad and metal road (?).
+|resources=DL_MetroDash
+|usedin=Du_Metro
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|100D|4109|DL_BbDash|False
+|info=Boost pad from Big Blue.
+|resources=DL_BbDash
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|100E|4110|DL_FallenLeaf|False
+|info=Leaf pile from Animal Crossing Autumn.
+|resources=DL_FallenLeaf
+|usedin=Du_Animal_Autumn
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|100F|4111|DL_AnimalShell|False
+|info=Shell from Animal Crossing.
+|resources=DL_AnimalShell
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1010|4112|DL_RibbonBox|False
+|info=Spring with a clown. Comes out of DL_RibbonBox. Used in GBA Ribbon Road.
+|resources=DL_RibbonBox
+|usedin=Dagb_RibbonRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1011|4113|DL_RibbonRoad2|False
+|info=Swaying part 2 of GBA Ribbon Road.
+|resources=DL_RibbonRoad
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1012|4114|DL_AnimalApple|False
+|info=Apple from Animal Crossing, except Spring.
+|resources=DL_AnimalApple
+|usedin=Du_Animal_Autumn, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1013|4115|DL_AnimalOrange|False
+|info=Orange from Animal Crossing, except Spring.
+|resources=DL_AnimalOrange
+|usedin=Du_Animal_Autumn, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1014|4116|DL_AnimalLemon|False
+|info=Lemon from Animal Crossing, except Spring.
+|resources=DL_AnimalLemon
+|usedin=Du_Animal_Autumn, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1015|4117|DefensiveWall|False
+|info=?
+|resources=CrashBox
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1016|4118|Castle|False
+|info=?
+|resources=Barrel
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1017|4119|TS_WuhuAirship|False
+|info=Zeppelin airship from 3DS Wuhu Town.
+|resources=TS_WuhuAirship
+|usedin=B3ds_WuhuTown
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1018|4120|TS_FlagSquareB1|False
+|info=Flag from SNES Battle Course 1
+|resources=TS_FlagSquareB1
+|usedin=Bsfc_Battle1
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|138A|5002|BumpingFlower|False
+|info=Bouncy flower from 3DS DK Jungle.
+|resources=BumpingFlower
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|138D|5005|WindMill|False
+|info=Wind mill propeller from Wii Moo Moo Meadows.
+|resources=WindMill
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1396|5014|TreeAgb|False
+|info=GBA-like tree.
+|resources=TreeAgb
+|usedin=Dgc_YoshiCircuit, Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1397|5015|TreeSnow|False
+|info=Snow tree (not collidable?).
+|resources=TreeSnow
+|usedin=Ggc_SherbetLand, Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1398|5016|TreeSph|False
+|info=Round tree (not collidable?).
+|resources=TreeSph
+|usedin=B3ds_WuhuTown, Dgc_YoshiCircuit, Du_Hyrule, G3ds_PackunSlider, Gu_City, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1399|5017|Tree64A|False
+|info=Tree with a large, round group of leafs.
+|resources=Tree64A
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|139B|5019|TreeTri|False
+|info=Fir-like tree, with dark leafs.
+|resources=TreeTri
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|139C|5020|Tree64Deep|False
+|info=Tree with pink leaves (not collidable?).
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|139D|5021|WaterSurface|False
+|info=Describes a surface, which racers under are underwater. Its area extends to infinity.
+|resources=WaterSurface
+|usedin=Gds_PukupukuBeach, Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|139E|5022|WaterBox|False
+|info=Describes a box, which racers inside are underwater. Its volume is 100x100x100 units, with its pivot at the center of the top face (at the water surface).
+|resources=WaterBox
+|usedin=G3ds_DKJungle, G3ds_PackunSlider, Gds_WarioStadium, Ggc_DryDryDesert, Ggc_SherbetLand, Gu_Cake, Gu_DossunIseki, Gu_HorrorHouse, Gu_Ocean, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|139F|5023|FlagStartDossun|False
+|info=Flag above the startline from Thwomp Ruins.
+|resources=FlagStartDossun
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13A0|5024|FlagStartMario|False
+|info=Flag with a MARIOKART logo. This is the only model that uses a shape animation.
+|resources=FlagStartMario
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13A1|5025|FlagStartMooMoo|False
+|info=Flag above the startline from Wii Moo Moo Meadows.
+|resources=FlagStartMooMoo
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13A2|5026|FlagStartAGB|False
+|info=Flag above the startline from GBA Mario Circuit.
+|resources=FlagStartAGB
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13A3|5027|YachtG|False
+|info=Yacht with green sail.
+|resources=Yacht
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13A4|5028|YachtP|False
+|info=Yacht with purple sail.
+|resources=Yacht
+|usedin=Gds_PukupukuBeach, Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13A5|5029|YachtR|False
+|info=Yacht with red sail.
+|resources=Yacht
+|usedin=Gds_PukupukuBeach, Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13A6|5030|YachtY|False
+|info=Yacht with yellow sail.
+|resources=Yacht
+|usedin=Gds_PukupukuBeach, Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13A7|5031|HhDoor|False
+|info=Door from Twisted Mansion which opens during countdown.
+|resources=HhDoor
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13A8|5032|HhTable|False
+|info=Table for 6 people.
+|resources=HhTable
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13A9|5033|HhChandelier|False
+|info=Chandelier from Twisted Mansion.
+|resources=HhChandelier
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13AA|5034|HhMovingWall|False
+|info=Moving wooden wall which looks like a monster from Twisted Mansion.
+|resources=HhMovingWall
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13B1|5041|RotaryBoard|False
+|info=Rotating "TOAD TOY STORE" sign from Toad Harbor.
+|resources=RotaryBoard
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13B2|5042|FlagRope1|False
+|info=Rope with colored flags.
+|resources=FlagRope1
+|usedin=Gds_PukupukuBeach, Ggc_SherbetLand, Gu_City, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13B4|5044|FlagTriangle1|False
+|info=Triangle-shaped flag with a pink theme.
+|resources=FlagTriangle1
+|usedin=G64_PeachCircuit, Gu_City, Gu_MarioCircuit, Gu_SnowMountain, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13B7|5047|TreeCakeB|False
+|info=Pink candy tree from Sweet Sweet Canyon.
+|resources=TreeCakeB
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13B9|5049|WindMillCake|False
+|info=Wimd mill propeller from Sweet Sweet Canyon.
+|resources=WindMillCake
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13BB|5051|MpTrumpet|False
+|info=Trumpet from 3DS Music Park.
+|resources=MpTrumpet
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13BC|5052|MpTambourin|False
+|info=Tambourin from 3DS Music Park.
+|resources=MpTambourin
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13BD|5053|MpSax|False
+|info=Saxophone from 3DS Music Park.
+|resources=MpSax
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13BE|5054|MpSpeaker|False
+|info=Speaker (excluding box) from 3DS Music Park.
+|resources=MpSpeaker
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13C0|5056|MpCymbal|False
+|info=MpCymbal from 3DS Music Park.
+|resources=MpCymbal
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13C1|5057|MpPiston|False
+|info=Piston from 3DS Music Park.
+|resources=MpPiston
+|usedin=G3ds_MusicPark
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13C2|5058|SearchLight|False
+|info=Spot light from 3DS Music Park.
+|resources=SearchLight
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13C3|5059|TollBar|False
+|info=Road end barrier.
+|resources=TollBar
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13C4|5060|TreeCakeD|False
+|info=Icecream tree used in Sweet Sweet Canyon.
+|resources=TreeCakeD
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13C6|5062|HhFan|False
+|info=Fan from Twisted Mansion.
+|resources=HhFan
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13C7|5063|FlagTriangle2|False
+|info=Triangle-shaped flag with a orange theme.
+|resources=FlagTriangle2
+|usedin=G3ds_PackunSlider, Gu_MarioCircuit, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13C8|5064|ExExcavator|False
+|info=Excavator run by two Shy Guys.
+|resources=ExExcavator
+|usedin=Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13CE|5070|ClGun|False
+|info=Cannon from Cloudtop Cruise.
+|resources=ClGun
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13CF|5071|ClBattleShip|False
+|info=Two rotating propellers to a battle ship from Cloudtop Cruise.
+|resources=ClBattleShip
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13D0|5072|Tree64Yoshi|False
+|info=Tree from N64 Yoshi Valley with two fruits and a few leaves.
+|resources=Tree64Yoshi
+|usedin=G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13D3|5075|BDSearchLight|False
+|info=Spot light lamp source from Bone-Dry Dunes.
+|resources=BDSearchLight
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13D4|5076|BDFlagSquare1|False
+|info=Flag with a Toad on it as well as a blue background. Used in Bone-Dry Dunes.
+|resources=BDFlagSquare
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13D5|5077|BDWindmill|False
+|info=Windmill propeller from Bone-Dry Dunes.
+|resources=BDWindmill
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13D6|5078|FlagTapestryDossun|False
+|info=Flag tapestry from Thwomp Ruins.
+|resources=FlagTapestryDossun
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13D7|5079|FlagTapestryPeach|False
+|info=Flag tapestry from GBA Mario Circuit.
+|resources=FlagTapestryPeach
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13D8|5080|FlagTapestryMusic|False
+|info=Flag tapestry from 3DS Music Park.
+|resources=FlagTapestryMusic
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13D9|5081|FlagTriangle3|False
+|info=Triangle-shaped flag with a red theme.
+|resources=FlagTriangle3
+|usedin=G3ds_PackunSlider, Ggc_DryDryDesert, Gsfc_DonutsPlain3, Gu_Airport, Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13DA|5082|TcMirrorBall|False
+|info=Discoball from Electrodrome.
+|resources=TcMirrorBall
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13DB|5083|Kanransya|False
+|info=Ferris wheel from Water Park.
+|resources=Kanransya
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13DC|5084|CoffeeCup|False
+|info=Coffee cup wagon from Water Park.
+|resources=CoffeeCup
+|usedin=Gu_WaterPark
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13DD|5085|TreeSph_AddCol|False
+|info=Round tree (collidable?).
+|resources=TreeSph
+|usedin=B3ds_WuhuTown, G3ds_PackunSlider, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13E0|5088|TreeTriB|False
+|info=Tall tree from Twisted Mansion.
+|resources=TreeTriB
+|usedin=Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13E1|5089|TreeBush|False
+|info=Bush with some red flowers.
+|resources=TreeBush
+|usedin=Dgc_YoshiCircuit, Du_Animal_Spring, Du_Animal_Summer, Du_Hyrule, G3ds_MusicPark, G3ds_PackunSlider, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13E2|5090|TreeCityA|False
+|info=Palm tree (not collidable?).
+|resources=TreeCityA
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13E3|5091|APGuide|False
+|info=Floating propeller from Sunshine Airport.
+|resources=APGuide
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13E5|5093|TreeCakeBB|False
+|info=Red and yellow candy tree from Sweet Sweet Canyon.
+|resources=TreeCakeB
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13E6|5094|TreeCakeBY|False
+|info=Green and yellow candy tree from Sweet Sweet Canyon.
+|resources=TreeCakeB
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13E7|5095|APCBelt|False
+|info=Curved moving baggage belt from Sunshine Airport.
+|resources=APCBelt
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13E8|5096|APSBelt|False
+|info=Straight moving baggage belt from Sunshine Airport.
+|resources=APSBelt
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13E9|5097|APTollBar|False
+|info=End of road barrier from Sunshine Airport.
+|resources=APTollBar
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13EA|5098|FlagTriangle4|False
+|info=Triangle-shaped flag with a blue theme.
+|resources=FlagTriangle4
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13EF|5103|WPTollBar|False
+|info=End of road barrier from Water Park.
+|resources=WPTollBar
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13F0|5104|McGate|False
+|info=Gate sign from Mario Circuit.
+|resources=McGate
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13F2|5106|DrumInside|False
+|info=Oil drum.
+|resources=DrumInside
+|usedin=Gds_WarioStadium, Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13F3|5107|FlagStadiumA|False
+|info=Flag from Mario Kart Stadium (MARIO SUPER MOTOR TEAM?).
+|resources=FlagStadium
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13F4|5108|FlagStadiumB|False
+|info=Flag from Mario Kart Stadium (LUIGI GUSTERS?).
+|resources=FlagStadium
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13F5|5109|FlagStadiumC|False
+|info=Flag from Mario Kart Stadium (LORD BOWSER?).
+|resources=FlagStadium
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13F6|5110|ClTrampoline|False
+|info=Bouncy thing from Cloudtop Cruiser.
+|resources=ClTrampoline
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13F7|5111|SmHelicopter|False
+|info=Helicopter with ski and 3 propellers from Mount Wario.
+|resources=SmHelicopter
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13F8|5112|FcGallery|False
+|info=Crowd from Mario Kart Stadium, containing Shy Guys, Koopa Troopas and Toads.
+|resources=FcGallery
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|1|13FA|5114|AccelRing|False
+|info=Ring from Mount Wario which accelerates a player when going through it.
+|resources=AccelRing
+|usedin=Gu_SnowMountain
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13FB|5115|RacingPole|False
+|info=Red pole with a small flag from Mount Wario.
+|resources=RacingPole
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|13FC|5116|TechnoStepGreen|False
+|info=Green steps from Electrodrome.
+|resources=TechnoStepGreen
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Model and collision index.
+}}
+{{MK8D Object|2|13FD|5117|TechnoStepRed|False
+|info=Red steps from Electrodrome.
+|resources=TechnoStepRed
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Model and collision index.
+}}
+{{MK8D Object|1|13FE|5118|BarrelCannon|False
+|info=Wooden cannon from N64 Yoshi Valley.
+|resources=BarrelCannon
+|usedin=G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|13FF|5119|OcRing|False
+|info=Ring from Dolphin Shoals.
+|resources=OcRing
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1400|5120|APPropeller|False
+|info=Rotating propeller from Sunshine Airport.
+|resources=APPropeller
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1401|5121|FlagSquareAP|False
+|info="STAR CUP" flag from Sunshine Airport.
+|resources=FlagSquareAP
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1402|5122|FlagTriangle5|False
+|info=Triangle-shaped flag with a blue theme.
+|resources=FlagTriangle5
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1404|5124|ClBattleShipS|False
+|info=Small battle ship from Cloudtop Cruise.
+|resources=ClBattleShipS
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1405|5125|FlagTapestryFc|False
+|info=Flag tapestry from Mario Kart Stadium.
+|resources=FlagTapestryFc
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|140A|5130|CakeCannon|False
+|info=Donut cannon from Sweet Sweet Canyon.
+|resources=CakeCannon
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|140B|5131|FlagTapestryWp|False
+|info=Flag tapestry from Water Park.
+|resources=FlagTapestryWp
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|140C|5132|GuardrailRSpot|False
+|info=?
+|resources=GuardrailRSpot
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|140D|5133|ExExcavatorBig|False
+|info=Big excavator with two Shy Guys from Shy Guy Falls.
+|resources=ExExcavatorBig
+|usedin=Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|140E|5134|ClPropeller|False
+|info=Propeller from Cloudtop Cruise.
+|resources=ClPropeller
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1410|5136|BDRope|False
+|info=Rope with stones handing in it from Bone-Dry Dunes.
+|resources=BDRope
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1411|5137|BDCloth|False
+|info=Carpet from Bone-Dry Dunes.
+|resources=BDCloth
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1412|5138|GearDecoA|False
+|info=Blue gear decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1413|5139|GearDecoB|False
+|info=Green gear decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1414|5140|GearDecoC|False
+|info=Pink gear decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1415|5141|TcStarSpeaker|False
+|info=Blue star speaker from Electrodrome.
+|resources=TcStarSpeaker
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1416|5142|TcSpeaker|False
+|info=Speaker from Electrodrome.
+|resources=TcSpeaker
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1419|5145|GearDecoD|False
+|info=Golden clockwork decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|141A|5146|GearDecoE|False
+|info=Golden clockwork decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|141B|5147|TcDisplay|False
+|info=Screen displaying dancing Koopa Troopas and Shy Guys from Electrodrome.
+|resources=TcDisplay
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1423|5155|GearDecoF|False
+|info=Golden gear decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1424|5156|GearDecoG|False
+|info=Golden gear decoration from DS Tick-Tock Clock.
+|resources=GearDeco
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1425|5157|ClockSpring|False
+|info=?
+|resources=ClockSpring
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1429|5161|TcDisplayR|False
+|info=Curved creen displaying dancing Koopa Troopas and Shy Guys from Electrodrome (?).
+|resources=TcDisplay
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|142A|5162|TcSoundRoadG|False
+|info=Green track part of Electrodrome.
+|resources=TcSoundRoad
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|142B|5163|TcSoundRoadR|False
+|info=Red track part of Electrodrome.
+|resources=TcSoundRoad
+|usedin=Gu_Techno
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|142D|5165|TreeSnow_AddCol|False
+|info=Snow tree (collidable?).
+|resources=TreeSnow
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|142E|5166|TreeCityACol|False
+|info=Palm tree (collidable?).
+|resources=TreeCityA
+|usedin=Gds_PukupukuBeach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|142F|5167|FlagStadiumWarioC|False
+|info=Flag from DS Wario Stadium.
+|resources=FlagStadiumWario
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1430|5168|FlagStadiumWarioA|False
+|info=Flag from DS Wario Stadium.
+|resources=FlagStadiumWario
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1431|5169|FlagStadiumWarioB|False
+|info=Flag from DS Wario Stadium.
+|resources=FlagStadiumWario
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1432|5170|FlagTapestryWs|False
+|info=Flag tapestry from DS Wario Stadium.
+|resources=FlagTapestryWs
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1433|5171|SlRopeL|False
+|info=Long rope with lamps from GCN Sherbet Land.
+|resources=SlRope
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1434|5172|SlRopeM|False
+|info=Short rope with lamps from GCN Sherbet Land.
+|resources=SlRope
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1435|5173|FlagTapestrySl|False
+|info=Flag tapestry from GCN Sherbet Land.
+|resources=FlagTapestrySl
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1436|5174|GravityBox|False
+|info=?
+|resources=GravityBox
+|usedin=Bu_Moon, Du_BigBlue, Du_MuteCity, Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1437|5175|FlagStartSnow|False
+|info=Flag above startline from Mount Wario.
+|resources=FlagStartSnow
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1438|5176|N64RAccelRing|False
+|info=Ring from N64 Rainbow Road which accelerates the player when going through it.
+|resources=N64RAccelRing
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1439|5177|N64RCheck|False
+|info=Decoration from N64 Rainbow Road.
+|resources=N64RCheck
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|143A|5178|N64RStart|False
+|info=Decoration from N64 Rainbow Road.
+|resources=N64RStart
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|143B|5179|SwanBoatR|False
+|info=Blue swan boat from N64 Royal Raceway.
+|resources=SwanBoat
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|143C|5180|Tire|False
+|info=Black tire decoration.
+|resources=Tire
+|usedin=Dgc_YoshiCircuit, Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Stacked tire count.
+}}
+{{MK8D Object|1|143D|5181|SwanBoatB|False
+|info=Yellow swan boat from N64 Royal Raceway.
+|resources=SwanBoat
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|143E|5182|WaterPlantA|False
+|info=Green plant.
+|resources=WaterPlantA
+|usedin=G3ds_DKJungle, Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|143F|5183|WaterPlantB|False
+|info=Green plant.
+|resources=WaterPlantB
+|usedin=G3ds_DKJungle, Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1440|5184|FlagTapestryPs|False
+|info=Flag tapestry from 3DS Piranha Plant Slide.
+|resources=FlagTapestryPs
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1441|5185|WPBoatA|False
+|info=Boat from Water Park with red and blue sail.
+|resources=WPBoat
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1442|5186|WPBoatB|False
+|info=Boat from Water Park with yellow and blue sail.
+|resources=WPBoat
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1443|5187|WPBoatC|False
+|info=Boat from Water Park with green and white sail.
+|resources=WPBoat
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1444|5188|N64RAccelRingAir|False
+|info=?
+|resources=N64RAccelRing
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1445|5189|N64RStageSet|False
+|info=Stage decoration from N64 Rainbow Road.
+|resources=N64RStageSet
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1446|5190|UltraArm|False
+|info=Part of GBA Mario Circuit which goes up during intro cameras.
+|resources=UltraArm
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1448|5192|ClockBell|False
+|info=Clock bell.
+|resources=ClockBell
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1449|5193|Tree64Middle|False
+|info=Tree with light-pink leaves.
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|144A|5194|Tree64Light|False
+|info=Tree with white pink leaves.
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|144B|5195|FlagPeachCircuit|False
+|info=Flag from N64 Royal Raceway with Peach.
+|resources=FlagPeachCircuit
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|144C|5196|MilkTank|False
+|info=Milk tank from Wii Moo Moo Meadows with a cow on it.
+|resources=MilkTank
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|144E|5198|StrawRoll|False
+|info=Straw roll from Wii Moo Moo Meadows.
+|resources=StrawRoll
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1450|5200|ClockArm|False
+|info=Clock arm.
+|resources=ClockArm
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1451|5201|ClockCylinder|False
+|info=?
+|resources=ClockCylinder
+|usedin=Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1452|5202|BCGate|False
+|info=Clock cylinder.
+|resources=BCGate
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1453|5203|BCElevator|False
+|info=Elevator machine from Bowser's Castle.
+|resources=BCElevator
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1454|5204|BCEngine|False
+|info=Engine decoration from Bowser's Castle.
+|resources=BCEngine
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1455|5205|BCFlag|False
+|info=Flag from Bowser's Castle.
+|resources=BCFlag
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1457|5207|BCChain|False
+|info=Chains with a hook from Bowser's Castle.
+|resources=BCChain
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|145A|5210|TreeDD|False
+|info=Palm tree from GCN Dry Dry Desert.
+|resources=TreeCityA
+|usedin=Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1461|5217|TreeDonuts|False
+|info=Tree with cuboid leaves from SNES Donuts Plain 3.
+|resources=TreeDonuts
+|usedin=Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1462|5218|Tree64DeepCol|False
+|info=Tree with pink leaves (collidable?).
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1463|5219|Tree64MiddleCol|False
+|info=Tree with light-pink leaves (collidable?).
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1464|5220|Tree64LightCol|False
+|info=Tree with white pink leaves (collidable?).
+|resources=Tree64B
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1465|5221|TreePukupuku|False
+|info=Palm tree from DS Cheep Cheep Beach.
+|resources=TreeCityA
+|usedin=Gds_PukupukuBeach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1466|5222|ConnectBoard|False
+|info=Ramps and roads which connects different course parts (?).
+|resources=ConnectBoard
+|usedin=G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1467|5223|SlRedSpot|False
+|info=?
+|resources=SlRedSpot
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1468|5224|BDFlagSquare2|False
+|info=Flag with a Shy Guy on it as well as a red background. Used in Bone-Dry Dunes.
+|resources=BDFlagSquare
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1469|5225|FlagStartPukupuku|False
+|info=Flag above startline from DS Cheep Cheep Beach.
+|resources=FlagStartPukupuku
+|usedin=Gds_PukupukuBeach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|146B|5227|SpinTurboBar_BD|False
+|info=Spin boost object from Bone-Dry Dunes.
+|resources=SpinTurboBar_BD
+|usedin=Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|146C|5228|FlagSquare1|False
+|info=Flag from GBA Mario Circuit.
+|resources=FlagSquare1
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|146D|5229|WsGate|False
+|info="MARIO KART" gate from DS Wario Stadium.
+|resources=WsGate
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|146E|5230|PeachBell|False
+|info=Bell from N64 Royal Raceway.
+|resources=PeachBell
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|146F|5231|SpinTurboBar_TC|False
+|info=Spin boost object from Electrodrome.
+|resources=SpinTurboBar_TC
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1470|5232|SpinTurboBar_AP|False
+|info=Spin boost object from Sunshine Airport.
+|resources=SpinTurboBar_AP
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1472|5234|OceanWaterPlantA|False
+|info=Water plant from Dolphin Shoals.
+|resources=OceanWaterPlantA
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1473|5235|OceanWaterPlantB|False
+|info=Water plant from Dolphin Shoals.
+|resources=OceanWaterPlantB
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1474|5236|RRstationA|False
+|info=Track part of Rainbow Road.
+|resources=RRstation
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1475|5237|RRstationB|False
+|info=Track part of Rainbow Road.
+|resources=RRstation
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1476|5238|RRstationC|False
+|info=Track part of Rainbow Road.
+|resources=RRstation
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1477|5239|RRguide|False
+|info=?
+|resources=RRguide
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1478|5240|RRring|False
+|info=
+|resources=RRring
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1479|5241|RRseat|False
+|info=Space station.
+|resources=RRseat
+|usedin=Bu_Moon, Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|147A|5242|WindMillSmall|False
+|info=Small windmill propeller from Wii Moo Moo Meadows.
+|resources=WindMillSmall
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|147C|5244|TireR|False
+|info=Red tire decoration.
+|resources=Tire
+|usedin=Dgc_YoshiCircuit, Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Stacked tire count.
+}}
+{{MK8D Object|2|147D|5245|TireW|False
+|info=White tire decoration.
+|resources=Tire
+|usedin=Dgc_YoshiCircuit, Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=Stacked tire count.
+}}
+{{MK8D Object|1|147E|5246|PsFan|False
+|info=Fan from 3DS Piranha Plant Slide.
+|resources=PsFan
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|147F|5247|TcMoveLight|False
+|info=Lights from Electrodrome.
+|resources=TcMoveLight
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1480|5248|Weathercock|False
+|info=Weather cock decoration in stone.
+|resources=Weathercock
+|usedin=Du_Hyrule, Gu_HorrorHouse, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1481|5249|RRstartring|False
+|info=Ring decoration at the startline in Rainbow Road.
+|resources=RRstartring
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1482|5250|TcChandelier|False
+|info=Disco chandelier from Electrodrome.
+|resources=TcChandelier
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1483|5251|FlagMusicSwing|False
+|info=Flag tapestry from 3DS Music Park.
+|resources=FlagTapestryMusic
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1484|5252|SherbetPlantA|False
+|info=Green plant from GCN Sherbet Land.
+|resources=SherbetPlantA
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1485|5253|SherbetPlantB|False
+|info=Green plant from GCN Sherbet Land.
+|resources=SherbetPlantB
+|usedin=Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1486|5254|FlagTriangle3Y|False
+|info=Triangle-shaped flag with a red theme.
+|resources=FlagTriangle3Y
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1487|5255|N64RStageSet2|False
+|info=N64 Rainbow Road stage set decoration with a star.
+|resources=N64RStageSet2
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1488|5256|N64RStar|False
+|info=Star decoration from N64 Rainbow Road.
+|resources=N64RStar
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1489|5257|TcChandelierS|False
+|info=Tiny disco chandelier from Electrodrome.
+|resources=TcChandelier
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|148A|5258|TcChandelierM|False
+|info=Small disco chandelier from Electrodrome.
+|resources=TcChandelier
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|148B|5259|WindMillB|False
+|info=Windmill propeller from Wii Moo Moo Meadows.
+|resources=WindMillB
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|148D|5261|SpinTurboBar_RR|False
+|info=Spin boost object from Rainbow Road.
+|resources=SpinTurboBar_RR
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|148E|5262|CmnDashBoard|False
+|info=Boost ramp used together with Bus in N64 Toad's Turnpike.
+|resources=CmnDashBoard
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|148F|5263|McJump|False
+|info=Wooden ramps from Mario Circuit.
+|resources=McJump
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1491|5265|MmJump|False
+|info=Wooden ramps from Wii Moo Moo Meadows.
+|resources=MmJump
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1492|5266|KhJump|False
+|info=Ramps from N64 Toad's Turnpike.
+|resources=KhJump
+|usedin=G64_KinopioHighway
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1493|5267|SmFan|False
+|info=Fans from Mount Wario.
+|resources=SmFan
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1494|5268|BCParts|False
+|info=Gears from Bowser's Castle.
+|resources=BCParts
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1495|5269|ClGuide|False
+|info=Floating propeller object from Cloudtop Cruise.
+|resources=ClGuide
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1496|5270|BCPiston|False
+|info=Piston from Bowser's Castle (?).
+|resources=BCPiston
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1497|5271|BCBattleShipS|False
+|info=Small battle ship form Bowser's Castle.
+|resources=BCBattleShipS
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1498|5272|SearchLightNoClip|False
+|info=Spot light from 3DS Music Park, which doesn't clip?
+|resources=SearchLight
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1499|5273|RRbox|False
+|info=Float questionmark box from Rainbow Road.
+|resources=RRbox
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|149A|5274|McKart|False
+|info=Mario's Standard Kart model.
+|resources=McKart
+|usedin=Gu_FirstCircuit, Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|149B|5275|TreeSphB|False
+|info=Spherical tree (not collidable?).
+|resources=TreeSphB
+|usedin=Gu_WaterPark, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|149C|5276|CiJump|False
+|info=Ramp from Toad Harbor.
+|resources=CiJump
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|149D|5277|TreeSphB_AddCol|False
+|info=Spherical tree (collidable?).
+|resources=TreeSphB
+|usedin=Gu_WaterPark, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|149E|5278|Holography|False
+|info="SPECIAL CUP" hologram from Rainbow Road.
+|resources=Holography
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|149F|5279|ChairliftNoMove|False
+|info=Still chairlift from Mount Wario.
+|resources=Chairlift
+|usedin=Gu_SnowMountain
+|s0=?
+|s1=—
+|s2=?
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14A0|5280|DL_TreeTri|False
+|info=Big tree from Hyrule Circuit.
+|resources=DL_TreeTri
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14A1|5281|DL_TreeApple|False
+|info=Tree from Animal Crossing containing apples.
+|resources=DL_TreeApple
+|usedin=Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14A2|5282|DL_SpinTurboBar_DR|False
+|info=Spin boost object from Dragon Driftway.
+|resources=DL_SpinTurboBar_DR
+|usedin=Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14A3|5283|DL_SpinTurboBar_MC|False
+|info=Spin boost object from Mute City.
+|resources=DL_SpinTurboBar_MC
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14A4|5284|DL_WgExcavator|False
+|info=Excavator from Wii Wario's Gold Mine.
+|resources=DL_WgExcavator
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14A5|5285|DL_WgGear|False
+|info=Gear decoration from Wii Wario's Gold Mine.
+|resources=DL_WgGear
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14A6|5286|DL_WgGearBig|False
+|info=Big gear decoration from Wii Wario's Gold Mine.
+|resources=DL_WgGear
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14A7|5287|DL_FlagStartIce|False
+|info=Flag above startline from Ice Ice Outpost.
+|resources=DL_FlagStartIce
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14A8|5288|DL_DragonHead|False
+|info=?
+|resources=DL_DragonHead
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14A9|5289|DL_EbGridGate|False
+|info=Player grid when starting from Excitebike Arena.
+|resources=DL_EbGridGate
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14AA|5290|DL_TreeOrange|False
+|info=Tree from Animal Crossing containing oranges.
+|resources=DL_TreeApple
+|usedin=Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14AB|5291|DL_TreeLemon|False
+|info=Tree from Animal Crossing containing lemons.
+|resources=DL_TreeApple
+|usedin=Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14AC|5292|DL_TreeSphYoshi|False
+|info=Tree from GCN Yoshi Circuit containing red Yoshi apples.
+|resources=DL_TreeSphYoshi
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14AD|5293|DL_FlagTriangle6|False
+|info=Flag from Excitebike Arena.
+|resources=DL_FlagTriangle6
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14AE|5294|DL_WgFlagSquare|False
+|info=Flag from Wii Wario's Gold Mine.
+|resources=DL_WgFlagSquare
+|usedin=Dwii_WariosMine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14AF|5295|DL_TreeAnimal|False
+|info=Tree from Animal Crossing without fruits.
+|resources=DL_TreeApple
+|usedin=Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14B0|5296|DL_FlagStadiumEB|False
+|info=Flag from Excitebike Arena.
+|resources=DL_FlagStadiumEB
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14B1|5297|DL_TreePineA|False
+|info=Pine tree from Dragon Driftway.
+|resources=DL_TreePineA
+|usedin=Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14B2|5298|DL_TreePineB|False
+|info=Pine tree from Dragon Driftway.
+|resources=DL_TreePineB
+|usedin=Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14B3|5299|DL_FlagDragon|False
+|info=Flag with a cloud.
+|resources=DL_FlagDragon
+|usedin=Bu_Dojo, Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14B4|5300|DL_MCRotaryBoardA|False
+|info=Rotating decoration from Mute City.
+|resources=DL_MCRotaryBoardA
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14B5|5301|DL_MCBldgParts|False
+|info=Round track part from Mute City.
+|resources=DL_MCBldgParts
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14B6|5302|DL_MCCars|False
+|info=Background flying vehicles from Mute City.
+|resources=DL_MCCars
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14B7|5303|DL_MCTriangleBoard|False
+|info="GO" board from Mute City.
+|resources=DL_MCTriangleBoard
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14B8|5304|DL_MCPipeRing|False
+|info=Ring decoration from Mute City.
+|resources=DL_MCPipeRing
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14B9|5305|DL_MCJets|False
+|info=Background flying jet vehicles from Mute City.
+|resources=DL_MCJets
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14BA|5306|DL_HyFlagSquare|False
+|info=Zelda flag with red background from Hyrule Circuit.
+|resources=DL_HyFlagSquare
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14BB|5307|DL_IceFlagSquare|False
+|info="TOAD POLAR EXPEDITION 2014-2015" flag from Ice Ice Outpost.
+|resources=DL_IceFlagSquare
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14BC|5308|DL_YcYacht|False
+|info=Yacht in different colors from GCN Yoshi Circuit.
+|resources=DL_YcYacht
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14BD|5309|DL_SpinTurboBar_IP|False
+|info=Spin boost object from Ice Ice Outpost.
+|resources=DL_SpinTurboBar_IP
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14BE|5310|DL_WeathercockYoshi|False
+|info=Weathercock from GCN Yoshi Circuit.
+|resources=DL_WeathercockYoshi
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14BF|5311|DL_FlagStartYoshi|False
+|info=Flag above startline from GCN Yoshi Circuit.
+|resources=DL_FlagStartYoshi
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14C0|5312|DL_FlagRopeYoshi|False
+|info=Rope with flags from GCN Yoshi Circuit.
+|resources=DL_FlagRopeYoshi
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14C1|5313|DL_MasterSwordBase|False
+|info=Zelda base of the master sword from Hyrule Circuit.
+|resources=DL_MasterSwordBase
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14C2|5314|DL_MCRotaryBoardB|False
+|info=Rotating advertisement from Mute City.
+|resources=DL_MCRotaryBoardB
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14C3|5315|DL_MCRotaryBoardC|False
+|info=Rotating decoration from Mute City.
+|resources=DL_MCRotaryBoardC
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14C4|5316|DL_WoElevator|False
+|info=Elevator decoration from Wild Woods.
+|resources=DL_WoElevator
+|usedin=Du_Woods
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=?
+|s5=?
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14C5|5317|DL_WoWaterWheel|False
+|info=Water wheel from Wild Woods.
+|resources=DL_WoWaterWheel
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14C6|5318|DL_BbAirship|False
+|info=Airship decoration from Big Blue.
+|resources=DL_BbAirship
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14C7|5319|DL_BbCars|False
+|info=Background flying vehicles from Big Blue.
+|resources=DL_BbCars
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14C8|5320|DL_BbJets|False
+|info=Background flying jets from Big Blue.
+|resources=DL_BbJets
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14C9|5321|DL_BpSwingride|False
+|info=Swingride decoration from GCN Baby Park.
+|resources=DL_BpSwingride
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14CA|5322|DL_BpPirate|False
+|info=Bowser ship with Toads in it from GCN Baby Park.
+|resources=DL_BpPirate
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14CB|5323|DL_BpParatroopa|False
+|info=Paratroopa wings decoration from GCN Baby Park.
+|resources=DL_BpParatroopa
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14CC|5324|DL_BpWingA|False
+|info=Single wind decoration from GCN Baby Park.
+|resources=DL_BpWing
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14CD|5325|DL_BpWingB|False
+|info=Single wind decoration from GCN Baby Park.
+|resources=DL_BpWing
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14CE|5326|DL_BpGear|False
+|info=Gear decoration from GCN Baby Park.
+|resources=DL_BpGear
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14CF|5327|DL_CheeseBox|False
+|info=Cheese box which is destroyed when crashing into it. Used in GBA Cheese Land.
+|resources=DL_CheeseBox
+|usedin=Dagb_CheeseLand
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14D0|5328|DL_TreePalm|False
+|info=Object files missing.
+|resources=DL_TreePalm
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14D1|5329|DL_CoinStone|False
+|info=Stone decoration from Animal Crossing.
+|resources=DL_CoinStone
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14D2|5330|DL_BpKanransya|False
+|info=Ferris wheel from GCN Baby Park.
+|resources=DL_BpKanransya
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14D3|5331|DL_BpCoaster|False
+|info=Toads sitting in coasters looking like karts. Used in GCN Baby Park.
+|resources=DL_BpCoaster
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14D4|5332|DL_TreeAutumnApple|False
+|info=Autumn tree with apples from Animal Crossing Autumn.
+|resources=DL_TreeAutumn
+|usedin=Du_Animal_Autumn
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14D5|5333|DL_TreeAutumnLemon|False
+|info=Autumn tree with lemons from Animal Crossing Autumn.
+|resources=DL_TreeAutumn
+|usedin=Du_Animal_Autumn
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14D6|5334|DL_TreeAutumnOrange|False
+|info=Autumn tree with oranges from Animal Crossing Autumn.
+|resources=DL_TreeAutumn
+|usedin=Du_Animal_Autumn
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14D7|5335|DL_TreeWinter|False
+|info=Winter tree without fruits from Animal Crossing Winter.
+|resources=DL_TreeWinter
+|usedin=Du_Animal_Winter
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14D8|5336|DL_TreeWinterApple|False
+|info=Winter tree with apples from Animal Crossing Winter.
+|resources=DL_TreeWinter
+|usedin=Du_Animal_Winter
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14D9|5337|DL_TreeWinterLemon|False
+|info=Winter tree with lemons from Animal Crossing Winter.
+|resources=DL_TreeWinter
+|usedin=Du_Animal_Winter
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14DA|5338|DL_TreeWinterOrange|False
+|info=Winter tree with oranges from Animal Crossing Winter.
+|resources=DL_TreeWinter
+|usedin=Du_Animal_Winter
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14DB|5339|DL_TreeSakura|False
+|info=Cherry blossom tree from Animal Crossing Spring.
+|resources=DL_TreeSakura
+|usedin=Du_Animal_Spring
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14DC|5340|DL_TreeBushAutumn|False
+|info=Autumn bush from Animal Crossing Autumn.
+|resources=DL_TreeBushAutumn
+|usedin=Du_Animal_Autumn
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14DD|5341|DL_TreeBushWinter|False
+|info=Winter bush from Animal Crossing Winter.
+|resources=DL_TreeBushWinter
+|usedin=Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14DE|5342|DL_TreeAutumn|False
+|info=Autumn tree without fruits from Animal Crossing Autumn.
+|resources=DL_TreeAutumn
+|usedin=Du_Animal_Autumn
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14DF|5343|DL_NkSearchLight|False
+|info=Spot light from 3DS Neo Bowser City.
+|resources=DL_NkSearchLight
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14E0|5344|DL_StationAlarm|False
+|info=Alarm clock from Super Bell Subway.
+|resources=DL_StationAlarm
+|usedin=Du_Metro
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14E1|5345|DL_FlagStartWoods|False
+|info=Flag above startline from Wild Woods.
+|resources=DL_FlagStartWoods
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14E2|5346|DL_TreeSakura2|False
+|info=Cherry blossom tree from Animal Crossing Spring.
+|resources=DL_TreeSakura
+|usedin=Du_Animal_Spring
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14E3|5347|DL_TreeSakura3|False
+|info=Cherry blossom tree from Animal Crossing Spring.
+|resources=DL_TreeSakura
+|usedin=Du_Animal_Spring
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14E4|5348|DL_AnimalJump|False
+|info=Object files missing.
+|resources=DL_AnimalJump
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14E5|5349|DL_NkGate|False
+|info=Start decoration above startline from 3DS Neo Bowser City.
+|resources=DL_NkGate
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14E6|5350|DL_NkArrowArea_A|False
+|info=?
+|resources=DL_NkArrowArea_A
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14E7|5351|DL_NkArrowArea_B|False
+|info=?
+|resources=DL_NkArrowArea_B
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14E8|5352|DL_NkArrowArea_C|False
+|info=?
+|resources=DL_NkArrowArea_C
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14E9|5353|DL_SpinTurboBar_Bb|False
+|info=Spin boost object from Big Blue.
+|resources=DL_SpinTurboBar_Bb
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14EA|5354|DL_Bbguide|False
+|info=Round decoration from Big Blue.
+|resources=DL_Bbguide
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14EB|5355|DL_BbAccelRing|False
+|info=Ring which accelerates player when going through it. Used in Big Blue.
+|resources=DL_BbAccelRing
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14EC|5356|DL_BbCannon|False
+|info=Cannon decoration from Big Blue.
+|resources=DL_BbCannon
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14ED|5357|DL_BbBuildA|False
+|info=Round decoration from Big Blue.
+|resources=DL_BbBuildA
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14EE|5358|DL_BbCarsB|False
+|info=Background flying vehicle decoration from Big Blue.
+|resources=DL_BbCarsB
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14EF|5359|DL_AnimalFlag|False
+|info=Flag from Animal Crossing.
+|resources=DL_AnimalFlag
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14F0|5360|DL_FlagTriangle7|False
+|info=Triangle-shaped flag with red background from GBA Cheese Land.
+|resources=DL_FlagTriangle7
+|usedin=Dagb_CheeseLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14F1|5361|DL_NkElevator|False
+|info=Elevator decoration from 3DS Neo Bowser City.
+|resources=DL_NkElevator
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14F2|5362|DL_NkRotaryBoard_A|False
+|info=Round rotating board decoration from 3DS Neo Bowser City.
+|resources=DL_NkRotaryBoard_A
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14F3|5363|DL_NkCars_A|False
+|info=Background car decoration from 3DS Neo Bowser City.
+|resources=DL_NkCars_A
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14FC|5372|DL_BpStartGate|False
+|info=Baby Park start decoration with Baby Mario and Baby Luigi from GCN Baby Park.
+|resources=DL_BpStartGate
+|usedin=Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14FD|5373|DL_SpinTurboBar_Nk|False
+|info=Spin boost object from 3DS Neo Bowser City.
+|resources=DL_SpinTurboBar_Nk
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|14FE|5374|DL_NkCars_B|False
+|info=Object files missing.
+|resources=DL_NkCars_B
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|14FF|5375|DL_NkCars_C|False
+|info=Object files missing.
+|resources=DL_NkCars_C
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1500|5376|DL_SpinTurboBar_Cl|False
+|info=Spin boost object from GBA Cheese Land.
+|resources=DL_SpinTurboBar_Cl
+|usedin=Dagb_CheeseLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1501|5377|DL_BbPipeRing|False
+|info=Ring decoration from Big Blue.
+|resources=DL_BbPipeRing
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1502|5378|DL_BbRotaryBoardA|False
+|info=Rotating board advertisement from Big Blue.
+|resources=DL_BbRotaryBoardA
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1503|5379|DL_BbBoardPart|False
+|info=Round decoration from Big Blue.
+|resources=DL_BbBoardPart
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1504|5380|DL_TreePalmBb|False
+|info=Object files missing.
+|resources=DL_TreePalmBb
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1505|5381|DL_NkArrowArea_D|False
+|info=?
+|resources=DL_NkArrowArea_D
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1506|5382|DL_NkArrowArea_E|False
+|info=?
+|resources=DL_NkArrowArea_E
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1507|5383|DL_CoinStoneSnow|False
+|info=Snowy stone decoration from Animal Crossing Winter.
+|resources=DL_CoinStoneSnow
+|usedin=Du_Animal_Winter
+|s0=?
+|s1=?
+|s2=?
+|s3=?
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1508|5384|TEST_Gyakusou_Dash|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_Dash
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1509|5385|TEST_Gyakusou_Glide|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_Glide
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|150A|5386|TEST_Gyakusou_Barrier|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_Barrier
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|150B|5387|TEST_Gyakusou_Guide|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_Guide
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|150C|5388|TEST_Gyakusou_Step|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_Step
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|150D|5389|TEST_Gyakusou_StepJA|False
+|info=Object files missing.
+|resources=TEST_Gyakusou_StepJA
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|150E|5390|TS_WuhuBell|False
+|info=Bell from 3DS Wuhu Town.
+|resources=TS_WuhuBell
+|usedin=B3ds_WuhuTown
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|150F|5391|TS_FlagDojo|False
+|info=Flag tapestry from Dragon Palace.
+|resources=TS_FlagDojo
+|usedin=Bu_Dojo
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1511|5393|TS_WoodBoard|False
+|info=Wood roads from SNES Battle Course 1.
+|resources=TS_WoodBoard
+|usedin=Bsfc_Battle1
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1512|5394|TS_SweetsRibbonR|False
+|info=Red flag tapestry from Sweet Sweet Kingdom.
+|resources=TS_SweetsRibbon
+|usedin=Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1513|5395|TS_SweetsAirMeter|False
+|info=Windmill candy propeller from Sweet Sweet Kingdom.
+|resources=TS_SweetsAirMeter
+|usedin=Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1514|5396|TS_SpinTurboBar_BS|False
+|info=Spin boost object from Battle Stadium.
+|resources=TS_SpinTurboBar_BS
+|usedin=Bu_BattleStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1517|5399|TS_Candle|False
+|info=Candle lights from GCN Luigi Mansion.
+|resources=TS_Candle
+|usedin=Bgc_LuigiMansion
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1518|5400|TS_DragonG|False
+|info=Gold dragon from Dragon Palace.
+|resources=TS_Dragon
+|usedin=Bu_Dojo
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1519|5401|TS_DragonS|False
+|info=Silver dragon from Dragon Palace.
+|resources=TS_Dragon
+|usedin=Bu_Dojo
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|151A|5402|TS_SweetsRibbonG|False
+|info=Green flag tapestry from Sweet Sweet Kingdom.
+|resources=TS_SweetsRibbon
+|usedin=Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|151B|5403|TS_SweetsRibbonB|False
+|info=Blue flag tapestry from Sweet Sweet Kingdom.
+|resources=TS_SweetsRibbon
+|usedin=Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|151C|5404|TS_MoonRing|False
+|info=Two ring decorations from Lunar Colony.
+|resources=TS_MoonRing
+|usedin=Bu_Moon
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|151E|5406|TS_TruckDekaLineNM|False
+|info=Low-quality truck from Urchin Underpass.
+|resources=TS_TruckDekaLine
+|usedin=Bu_DekaLine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|151F|5407|TS_CarDekaLineNM|False
+|info=Low-quality car from Urchin Underpass.
+|resources=TS_CarDekaLine
+|usedin=Bu_DekaLine
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1520|5408|TS_SpinTurboBar_MO|False
+|info=Spin boost object from Lunar Colony.
+|resources=TS_SpinTurboBar_MO
+|usedin=Bu_Moon
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1521|5409|TS_PaperMC|False
+|info=Confetti on the road from Mario Circuit.
+|resources=TS_PaperMC
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1522|5410|TS_PaperSM|False
+|info=Confetti on the road from Mount Wario.
+|resources=TS_PaperSM
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1523|5411|TS_PaperT|False
+|info=Confetti on the road from Electrodrome.
+|resources=TS_PaperT
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1524|5412|TS_PaperFC|False
+|info=Confetti on the road from Mario Kart Stadium.
+|resources=TS_PaperFC
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1525|5413|TS_PaperWP|False
+|info=Confetti on the road from Water Park.
+|resources=TS_PaperWP
+|usedin=Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1526|5414|TS_PaperPC|False
+|info=Confetti on the road from N64 Royal Raceway.
+|resources=TS_PaperPC
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1527|5415|TS_PaperH|False
+|info=Confetti on the road from Hyrule Circuit.
+|resources=TS_PaperH
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1528|5416|TS_PaperYC|False
+|info=Confetti on the road from GCN Yoshi Circuit.
+|resources=TS_PaperYC
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1772|6002|TestStart|False
+|info=Start positions used when debugging the game.
+|resources=TestStart
+|usedin=Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Sweets, D3ds_NeoBowserCity, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_BabyPark, Dgc_YoshiCircuit, Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, Du_BigBlue, Du_DragonRoad, Du_ExciteBike, Du_Hyrule, Du_IcePark, Du_Metro, Du_MuteCity, Du_Woods, Dwii_WariosMine, G3ds_DKJungle, G3ds_MusicPark, G3ds_PackunSlider, G64_PeachCircuit, G64_RainbowRoad, G64_YoshiValley, Gagb_MarioCircuit, Gds_PukupukuBeach, Gds_TickTockClock, Gds_WarioStadium, Ggc_DryDryDesert, Ggc_SherbetLand, Gsfc_DonutsPlain3, Gu_Airport, Gu_BowserCastle, Gu_Cake, Gu_City, Gu_Cloud, Gu_Desert, Gu_DossunIseki, Gu_Expert, Gu_FirstCircuit, Gu_HorrorHouse, Gu_MarioCircuit, Gu_Ocean, Gu_RainbowRoad, Gu_SnowMountain, Gu_Techno, Gu_WaterPark, Gwii_GrumbleVolcano, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|1|1773|6003|Start|False
+|info=Start position of the players.
+|resources=Start
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets, D3ds_NeoBowserCity, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_BabyPark, Dgc_YoshiCircuit, Dsfc_RainbowRoad, Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, Du_BigBlue, Du_DragonRoad, Du_ExciteBike, Du_Hyrule, Du_IcePark, Du_Metro, Du_MuteCity, Du_Woods, Dwii_WariosMine, G3ds_DKJungle, G3ds_MusicPark, G3ds_PackunSlider, G64_KinopioHighway, G64_PeachCircuit, G64_RainbowRoad, G64_YoshiValley, Gagb_MarioCircuit, Gds_PukupukuBeach, Gds_TickTockClock, Gds_WarioStadium, Ggc_DryDryDesert, Ggc_SherbetLand, Gsfc_DonutsPlain3, Gu_Airport, Gu_BowserCastle, Gu_Cake, Gu_City, Gu_Cloud, Gu_Desert, Gu_DossunIseki, Gu_Expert, Gu_FirstCircuit, Gu_HorrorHouse, Gu_MarioCircuit, Gu_Menu, Gu_Ocean, Gu_RainbowRoad, Gu_SnowMountain, Gu_Techno, Gu_WaterPark, Gwii_GrumbleVolcano, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|2|1774|6004|Sun|False
+|info=Sun.
+|resources=Sun
+|usedin=Du_Woods, Gu_Cloud, Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1775|6005|Moon|False
+|info=Moon.
+|resources=Moon
+|usedin=G64_RainbowRoad, Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1776|6006|Sunset|False
+|info=?
+|resources=Sunset
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1778|6008|SunInf|False
+|info=Sun (?).
+|resources=Sun
+|usedin=Bsfc_Battle1, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_BabyPark, Du_Animal_Summer, Du_ExciteBike, Du_Hyrule, Du_MuteCity, G3ds_DKJungle, G3ds_PackunSlider, G64_PeachCircuit, Gagb_MarioCircuit, Gds_PukupukuBeach, Gds_WarioStadium, Ggc_DryDryDesert, Gsfc_DonutsPlain3, Gu_Expert, Gu_Ocean, Gu_RainbowRoad, Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1779|6009|SunInfY|False
+|info=Sun (?).
+|resources=Sun
+|usedin=B3ds_WuhuTown, Bu_BattleStadium, Dgc_YoshiCircuit, Du_Animal_Spring, Du_BigBlue, Du_IcePark, Gu_Airport, Gu_Cake, Gu_City, Gu_MarioCircuit, Gu_SnowMountain, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|177A|6010|MoonInf|False
+|info=Moon (?).
+|resources=Moon
+|usedin=Bgc_LuigiMansion, D3ds_NeoBowserCity, Du_Animal_Winter, G64_KinopioHighway, Ggc_SherbetLand, Gu_BowserCastle, Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|177B|6011|MoonInfY|False
+|info=Moon (?).
+|resources=Moon
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|177C|6012|SunsetInf|False
+|info=?
+|resources=Sunset
+|usedin=Du_Animal_Autumn, Dwii_WariosMine, Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|177D|6013|SunsetInfY|False
+|info=?
+|resources=Sunset
+|usedin=Du_DragonRoad, G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|177E|6014|Moon2Inf|False
+|info=Moon (?).
+|resources=Moon
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|177F|6015|Moon2InfY|False
+|info=Moon (?).
+|resources=Moon
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1780|6016|DL_RainbowLightA|False
+|info=Light used in SNES Rainbow Road (?).
+|resources=DL_RainbowLightA
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1781|6017|DL_RainbowLightB|False
+|info=Light used in SNES Rainbow Road (?).
+|resources=DL_RainbowLightB
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1782|6018|TeamStartBlue|False
+|info=Start position of blue team in battle mode.
+|resources=TeamStartBlue
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|2|1783|6019|TeamStartRed|False
+|info=Start position of red team in battle mode.
+|resources=TeamStartRed
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=?
+}}
+{{MK8D Object|1|1B5D|7005|VR64Highway|True
+|info=Dark and cloudy vrcorn used in N64 Toad's Turnpike.
+|resources=VR64Highway
+|usedin=G64_KinopioHighway
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B5E|7006|VRfair|True
+|info=Cloudy vrcorn.
+|resources=VRfair
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B60|7008|VRagbMario|True
+|info=Bright and cloudy vrcorn used in GBA Mario Circuit.
+|resources=VRagbMario
+|usedin=Gagb_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B61|7009|VR64Peach|True
+|info=Purple and cloudy vrcorn used in N64 Royal Raceway.
+|resources=VR64Peach
+|usedin=G64_PeachCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B62|7010|VRHorror|True
+|info=Dark and cloudy vrcorn used in GCN Luigi's Mansion and Twisted Mansion.
+|resources=VRHorror
+|usedin=Bgc_LuigiMansion, Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B63|7011|VRCake|True
+|info=Bright red and cloudy vrcorn used in Sweet Sweet Canyon.
+|resources=VRCake
+|usedin=Gu_Cake
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B64|7012|VRcloudSea|True
+|info=Clear blue and cloudy vrcorn with weird background mountains.
+|resources=VRcloudSea
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B65|7013|VRWaterPark|True
+|info=Dark blue and cloudy sky used in Battle Stadium, Animal Crossing Spring, 3DS DK Jungle and Water Park.
+|resources=VRWaterPark
+|usedin=Bu_BattleStadium, Du_Animal_Spring, G3ds_DKJungle, Gu_WaterPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B66|7014|VRFirst|True
+|info=Dark and cloudy vrcorn used in Mario Kart Stadium.
+|resources=VRFirst
+|usedin=Gu_FirstCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B67|7015|VRAirport|True
+|info=Blue and heavily cloudy vrcorn used in Sunshine Airport.
+|resources=VRAirport
+|usedin=Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B68|7016|VRTechno|True
+|info=Dark vrcorn used in Electrodrome.
+|resources=VRTechno
+|usedin=Gu_Techno
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B69|7017|VRSnowMt|True
+|info=Strong blue and cloudy vrcorn used in Mount Wario.
+|resources=VRSnowMt
+|usedin=Gu_SnowMountain
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B6A|7018|VRCloud|True
+|info=Blue and cloudy vrcorn with green plants used in Cloudtop Cruise.
+|resources=VRCloud
+|usedin=Gu_Cloud
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B6B|7019|VRDesert|True
+|info=Orange sun rising vrcorn used in Wii Wario's Gold Mine and Bone-Dry Dunes.
+|resources=VRDesert
+|usedin=Dwii_WariosMine, Gu_Desert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B6C|7020|VRExpert|True
+|info=Blue and cloudy vrcorn used in Dragon Palace and Shy Guy Falls.
+|resources=VRExpert
+|usedin=Bu_Dojo, Gu_Expert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B6D|7021|VRCity|True
+|info=Blue vrcorn used in Toad Harbor.
+|resources=VRCity
+|usedin=Gu_City
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B6E|7022|VRDossun|True
+|info=Blue and cloudy vrcorn with green plants used in Thwomp Ruins.
+|resources=VRDossun
+|usedin=Gu_DossunIseki
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B6F|7023|VRMario|True
+|info=Clear blue and cloudy vrcorn with weird background mountains used in Mario Circuit.
+|resources=VRMario
+|usedin=Gu_MarioCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B70|7024|VR64Yoshi|True
+|info=Blue and orange cloudy vrcorn used in N64 Yoshi Valley.
+|resources=VR64Yoshi
+|usedin=G64_YoshiValley
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B71|7025|VRMenu|True
+|info=Big room vrcorn used in Gu_Menu.
+|resources=VRMenu
+|usedin=Gu_Menu
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B72|7026|VRStorm|True
+|info=Red, dusty vrcorn used in Wii Grumble Volcano.
+|resources=VRStorm
+|usedin=Gwii_GrumbleVolcano
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B73|7027|VRGcDesert|True
+|info=Blue and cloudy vrcorn used in GCN Dry Dry Desert.
+|resources=VRGcDesert
+|usedin=Ggc_DryDryDesert
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B74|7028|VRWiiMoo|True
+|info=Cloudy sunset vrcorn used in Wii Moo Moo Meadows.
+|resources=VRWiiMoo
+|usedin=Gwii_MooMooMeadows
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B75|7029|VRCosmos|True
+|info=Black galaxy vrcorn used in 3DS Music Park.
+|resources=VRCosmos
+|usedin=G3ds_MusicPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B76|7030|VRCustomizer|True
+|info=Big room vrcorn.
+|resources=VRCustomizer
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B77|7031|VRWarioStadium|True
+|info=Blue and cloudy vrcorn used in DS Wario Stadium.
+|resources=VRWarioStadium
+|usedin=Gds_WarioStadium
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B78|7032|VRG64Rainbow|True
+|info=Very dark blue and cloudy vrcorn used in N64 Rainbow Road.
+|resources=VRG64Rainbow
+|usedin=G64_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B79|7033|VRRainbowRoad|True
+|info=Dark space vrcorn used in Rainbow Road.
+|resources=VRRainbowRoad
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B7A|7034|VRClock|True
+|info=Dummy vrcorn used for tracks which doesn't need a vrcorn.
+|resources=VRClock
+|usedin=Du_Metro, Gds_TickTockClock
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B7B|7035|VROcean|True
+|info=Light blue and cloudy vrcorn used in Dolphin Shpals.
+|resources=VROcean
+|usedin=Gu_Ocean
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B7C|7036|VRSherbet|True
+|info=Dark and cloudy vrcorn used in GCN Sherbet Land and Animal Crossing Winter.
+|resources=VRSherbet
+|usedin=Du_Animal_Winter, Ggc_SherbetLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B7D|7037|VRDonuts|True
+|info=Bright and blue vrcorn used in SNES Battle Course 1 and SNES Donuts Plain 3.
+|resources=VRDonuts
+|usedin=Bsfc_Battle1, Gsfc_DonutsPlain3
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B7E|7038|VRPackunS|True
+|info=Blue and cloudy vrcorn used in 3DS Piranha Plant Slide.
+|resources=VRPackunS
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B7F|7039|VRPukuB|True
+|info=Blue vrcorn used in 3DS Wuhu Town and DS Cheep Cheep Beach.
+|resources=VRPukuB
+|usedin=B3ds_WuhuTown, Gds_PukupukuBeach
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B80|7040|VRBowser|True
+|info=Dark and cloudy vrcorn used in Bowser's Castle.
+|resources=VRBowser
+|usedin=Gu_BowserCastle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B81|7041|DL_VRSfcRainbow|True
+|info=Dark and cloudy star vrcorn used in SNES Rainbow Road.
+|resources=DL_VRSfcRainbow
+|usedin=Dsfc_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B82|7042|DL_VRMuteCity|True
+|info=Blue vrcorn with plants used in Mute City.
+|resources=DL_VRMuteCity
+|usedin=Du_MuteCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B83|7043|DL_VRDragon|True
+|info=Sunset vrcorn used in Dragon Driftway.
+|resources=DL_VRDragon
+|usedin=Du_DragonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B84|7044|DL_VRExciteBike|True
+|info=Blue and cloudy vrcorn used in Excitebike Arena.
+|resources=DL_VRExciteBike
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B85|7045|DL_VRHyrule|True
+|info=Light and cloudy vrcorn used in Hyrule Circuit.
+|resources=DL_VRHyrule
+|usedin=Du_Hyrule
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B86|7046|DL_VRIcePark|True
+|info=Deep blue vrcorn used in Ice Ice Outpost.
+|resources=DL_VRIcePark
+|usedin=Du_IcePark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B87|7047|DL_VRBabyPark|True
+|info=Blue and cloudy vrcorn used in Urchin Underpass and GCN Baby Park.
+|resources=DL_VRBabyPark
+|usedin=Bu_DekaLine, Dgc_BabyPark
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B88|7048|DL_VRYoshiCircuit|True
+|info=Blue and cloudy vrcorn used in GCN Yoshi Circuit.
+|resources=DL_VRYoshiCircuit
+|usedin=Dgc_YoshiCircuit
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B89|7049|DL_VRWoods|True
+|info=Blue and cloudy vrcorn used in Wild Woods.
+|resources=DL_VRWoods
+|usedin=Du_Woods
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B8A|7050|DL_VRNeoBowserCity|True
+|info=Dark and cloudy vrcorn used in 3DS Neo Bowser City.
+|resources=DL_VRNeoBowserCity
+|usedin=D3ds_NeoBowserCity
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B8B|7051|DL_VRRibbon|True
+|info=Gray-blue vrcorn used in GBA Ribbon Road.
+|resources=DL_VRRibbon
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B8C|7052|DL_VRAnimalSpring|True
+|info=Object files missing.
+|resources=DL_VRAnimalSpring
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B8D|7053|DL_VRAnimalSummer|True
+|info=Deep blue vrcorn used in Animal Crossing summer.
+|resources=DL_VRAnimalSummer
+|usedin=Du_Animal_Summer
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B8E|7054|DL_VRAnimalAutumn|True
+|info=Orange blue vrcorn used in Animal Crossing Autumn.
+|resources=DL_VRAnimalAutumn
+|usedin=Du_Animal_Autumn
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B8F|7055|DL_VRAnimalWinter|True
+|info=Object files missing.
+|resources=DL_VRAnimalWinter
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B90|7056|DL_VRCheeseLand|True
+|info=Dark blue and cloudy vrcorn used in GBA Cheese Land.
+|resources=DL_VRCheeseLand
+|usedin=Dagb_CheeseLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B91|7057|DL_VRBigBlue|True
+|info=Blue vrcorn used in Big Blue.
+|resources=DL_VRBigBlue
+|usedin=Du_BigBlue
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1B92|7058|TS_VRSmall|True
+|info=Bright green blue vrcorn used in Sweet Sweet Kingdom.
+|resources=TS_VRSmall
+|usedin=Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1B93|7059|TS_VRMoon|True
+|info=Dark space vrcorn used in Lunar Colony.
+|resources=TS_VRMoon
+|usedin=Bu_Moon
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F41|8001|ColCylinder|False
+|info=?
+|resources=ColCylinder
+|usedin=G3ds_PackunSlider
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F48|8008|StartEx|False
+|info=?
+|resources=StartEx
+|usedin=Dagb_CheeseLand, Gu_Cloud, Gu_MarioCircuit
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F49|8009|ColCylinderStone|False
+|info=?
+|resources=ColCylinderStone
+|usedin=Dagb_RibbonRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F4A|8010|ColCylinderWood|False
+|info=?
+|resources=ColCylinderWood
+|usedin=Bu_DekaLine, Gu_City, Gu_HorrorHouse
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F4B|8011|ColCylinderMetal|False
+|info=?
+|resources=ColCylinderMetal
+|usedin=Gu_City, Gu_HorrorHouse, Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F4E|8014|CmnWaterCurrent_NoMdl|False
+|info=?
+|resources=CmnWaterCurrent_NoMdl
+|usedin=Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, G3ds_PackunSlider
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F4F|8015|CmnWaterCurrent_NoEff|False
+|info=?
+|resources=CmnWaterCurrent_NoEff
+|usedin=Ggc_DryDryDesert, Gu_HorrorHouse, Gu_Ocean
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F50|8016|ColSpinDash|False
+|info=?
+|resources=ColSpinDash
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F51|8017|ColCylinderGum|False
+|info=?
+|resources=ColCylinderGum
+|usedin=B3ds_WuhuTown, Gu_Airport
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F55|8021|RRsat|False
+|info=Satellite decoration with MKTV camera from Rainbow Road.
+|resources=RRsat
+|usedin=Gu_RainbowRoad
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F56|8022|N64RCoin|False
+|info=Coins dropped from N64Train (?).
+|resources=N64RCoin
+|usedin=G64_RainbowRoad
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F58|8024|ColLeafBox|False
+|info=?
+|resources=ColLeafBox
+|usedin=G3ds_DKJungle
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F59|8025|NoteArea|False
+|info=Area where the bouncing notes are (?).
+|resources=NoteArea
+|usedin=G3ds_MusicPark
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F5A|8026|ShortCutBox|False
+|info=?
+|resources=ShortCutBox
+|usedin=Dsfc_RainbowRoad, Du_IcePark, Gds_TickTockClock, Gu_Cloud, Gu_DossunIseki
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F5B|8027|DL_EbCheerCol|False
+|info=?
+|resources=DL_EbCheerCol
+|usedin=Du_ExciteBike
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F5C|8028|DL_EbApproachCol|False
+|info=?
+|resources=DL_EbApproachCol
+|usedin=Du_ExciteBike
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F5D|8029|Adjuster200cc|False
+|info=Object which increases gravity at specific areas. This was needed for some tracks on 200cc.
+|resources=Adjuster200cc
+|usedin=D3ds_NeoBowserCity, Dagb_CheeseLand, Dagb_RibbonRoad, Dgc_YoshiCircuit, Du_Animal_Autumn, Du_Animal_Spring, Du_Animal_Summer, Du_Animal_Winter, Du_Metro, Du_Woods, G3ds_DKJungle, G3ds_MusicPark, G3ds_PackunSlider, Gagb_MarioCircuit, Gds_TickTockClock, Gds_WarioStadium, Gu_Airport, Gu_Cake, Gu_City, Gu_Cloud, Gu_Desert, Gu_Expert, Gu_HorrorHouse, Gu_RainbowRoad, Gu_SnowMountain
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F5E|8030|DL_WanwanSearchArea|False
+|info=?
+|resources=DL_WanwanSearchArea
+|usedin=Dagb_CheeseLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F5F|8031|DL_WanwanAttackPoint|False
+|info=?
+|resources=DL_WanwanAttackPoint
+|usedin=Dagb_CheeseLand
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F60|8032|DL_AnimalVoiceAutumn|False
+|info=?
+|resources=DL_AnimalVoiceAutumn
+|usedin=Du_Animal_Autumn
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F61|8033|DL_AnimalVoiceSummer|False
+|info=?
+|resources=DL_AnimalVoiceSummer
+|usedin=Du_Animal_Summer
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F62|8034|Prison|False
+|info=?
+|resources=Prison
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F63|8035|PrisonTest|False
+|info=?
+|resources=PrisonTest
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F64|8036|TS_Prison|False
+|info=Prison used in the battle mode Renegade Roundup.
+|resources=TS_Prison
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|1F65|8037|TS_MoonGravity|False
+|info=?
+|resources=TS_MoonGravity
+|usedin=Bu_Moon
+|s0=?
+|s1=?
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|1F66|8038|ShinePoint|False
+|info=?
+|resources=ShinePoint
+|usedin=B3ds_WuhuTown, Bgc_LuigiMansion, Bsfc_Battle1, Bu_BattleStadium, Bu_DekaLine, Bu_Dojo, Bu_Moon, Bu_Sweets
+|s0=?
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|232E|9006|KaraPillarBase|False
+|info=?
+|resources=KaraPillar
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|2|232F|9007|ItemBoxFont|False
+|info=Unknown, but this object ID needs to be added to MapResObjIdList in order for item boxes to work.
+|resources=ItemBox
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}
+{{MK8D Object|1|2330|9008|TS_DoubleItemBoxFont|False
+|info=?
+|resources=ItemBox
+|usedin=Object not used in any track nor battle arena.
+|s0=—
+|s1=—
+|s2=—
+|s3=—
+|s4=—
+|s5=—
+|s6=—
+|s7=—
+}}

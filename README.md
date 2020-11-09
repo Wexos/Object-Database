@@ -1,2 +1,2 @@
 # ObjectDataBase
-Different object data bases for example Mario Kart Double Dash!! and Mario Kart Wii.
+Different object data bases for Nintendo games.

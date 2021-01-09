@@ -1,5 +1,5 @@
-# ObjectDataBase
-Different object data bases for Nintendo games.
+# Object Database
+Different object databases for Nintendo games.
 
 ## Mario Kart Double Dash
 Based on [this](https://avsys.xyz/wiki/Mario_Kart_Double_Dash/Object).
